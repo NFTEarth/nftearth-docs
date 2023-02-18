@@ -16,5 +16,5 @@
 
 * [Twitter](https://twitter.com/NFTEarth\_L2)
 * [Discord](https://discord.gg/nftearth)
-* [GitHub](https://github.nftearth)
+* [GitHub](https://github.com/NFTEarth)
 * [NFTEarth Application](https://nftearth.exchange)
