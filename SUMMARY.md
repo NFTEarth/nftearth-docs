@@ -1,14 +1,16 @@
 # Table of contents
 
-* [NFTΞarth Documentation](README.md)
-
 ## Overview
 
+* [📑 NFTΞarth Documentation](README.md)
 * [🎯 Strategy](overview/strategy.md)
+* [💰 Tokenomics](overview/tokenomics.md)
 
 ## Resources
 
 * [☎ Contact](resources/contact.md)
+* [🫂 Team](resources/team.md)
+* [⚠ Disclaimers](resources/disclaimers.md)
 
 ## Relevant Links
 
