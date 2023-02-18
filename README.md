@@ -1,0 +1,2 @@
+# documentation-nftearth
+NFTEarth Documentation
