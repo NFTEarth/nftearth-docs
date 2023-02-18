@@ -1,2 +1,2 @@
-# documentation-nftearth
-NFTEarth Documentation
+# NFTΞarth Documentation
+
