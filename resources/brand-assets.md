@@ -24,8 +24,10 @@ description: >-
 
 
 
-<figure><img src="../.gitbook/assets/200X200.png" alt="Token Icon"><figcaption><p>$NFTE Token Icon 200X200 .PNG</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/200X200.png" alt="Token Icon"><figcaption><p>$NFTE Token Icon 200 x 200 .PNG</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/NFTE_Icon.png" alt=""><figcaption><p>NFTEarth Icon 512X512 .PNG</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/NFTE_Icon.png" alt=""><figcaption><p>NFTEarth Icon 512 x 512 .PNG</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/1024 (2).png" alt=""><figcaption><p>NFTEarth Full Brand Logo 1024X1024 .PNG</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1024 (2).png" alt=""><figcaption><p>NFTEarth Full Brand Logo 1024 x 1024 .PNG</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/128 x 128.png" alt=""><figcaption><p>$NFTE Token Icon 128 x 128 .PNG</p></figcaption></figure>
