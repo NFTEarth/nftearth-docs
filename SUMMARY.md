@@ -10,7 +10,7 @@
 
 * [☎ Contact](resources/contact.md)
 * [📜 Smart Contracts](resources/smart-contracts.md)
-* [🎬 Brand Assets](resources/brand-assets.md)
+* [🎬 Media Assets](resources/media-assets.md)
 * [🫂 Team](resources/team.md)
 * [⚠ Disclaimers](resources/disclaimers.md)
 

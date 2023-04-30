@@ -1,10 +1,10 @@
 ---
 description: >-
-  Find NFTEarth brand assets for use in partnership and collaboration
-  announcements - included here are logos and icons in SVG and PNG formats
+  Here are NFTEarth media assets for use in partnership and collaboration
+  announcements - included here are logos and icons in PNG formats
 ---
 
-# 🎬 Brand Assets
+# 🎬 Media Assets
 
 ## Usage Guidelines:
 

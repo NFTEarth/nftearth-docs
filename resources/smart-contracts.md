@@ -14,12 +14,5 @@ description: Contracts relevant to the NFTEarth protocol
 
 [Ethereum](https://etherscan.io/address/0xb17A206eC2916b2D04FD997B603505fb1811F902): 0xb17A206eC2916b2D04FD997B603505fb1811F902
 
-## Marketplace Contracts
 
-\
-Optimism:
-
-Arbitrum:&#x20;
-
-Polygon:
 
