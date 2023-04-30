@@ -2,7 +2,7 @@
 
 ### NFTEarth Team
 
-This is the NFTEarth team. As we grow and decentralize the DAO, we will be looking to add new team members. NFTEarth is currently looking for talented individuals, so if you believe you could add value to the DAO, please get in touch!
+This is the NFTEarth team. As we grow and decentralize the DAO, we will be looking to add new team members. NFTEarth is currently looking for talented individuals, so if you believe you could add value to the DAO and have interest in Layer2 NFT growth, please get in touch!
 
 #### [**Weston Nelson**](https://twitter.com/westonnelson) **(Project Lead)**
 
@@ -10,37 +10,45 @@ Weston is involved with several DeFi protocols and DAOs. His background is in tr
 
 **0xAdventurer (Strategy and Partnerships)**
 
-0xadventurer has significant NFT ecosystem experience.
+0xadventurer has significant NFT ecosystem experience and a background in traditional finance, holding many roles throughout the years..
 
 #### Ryuzaki (Application Developer)&#x20;
 
-Ryu has over a decade of experience in web application development. His strengths include React and mobile application development. For NFTEarth he focuses on the public website and contract interactions.
+Ryu has over a decade of experience in web application development. He also has smart contract development experience, specifically in the NFT domain. His strengths include React and mobile application development. For NFTEarth he focuses on the public website and contract interactions.
 
 #### Justus (Application Developer)&#x20;
 
-Justus has over a decade of experience in web application development. His strengths include React and mobile application development
+Justus has over a decade of experience in web application development and backend development. His strengths include React and mobile application development. Justus has played a key role in deploying the smart contracts for NFTEarth, for example the Seaport implementation used by the protocol.
 
 #### Milkywave (Partnerships/Business Development)
 
-Milkywave is involved with several DeFi protocols and DAOs
-
-#### [Train](https://twitter.com/Layer2Train) **(**Treasury Management and Partnerships)&#x20;
-
-Train’s background is in business management and finance. He has over twenty years of experience in management and business development across multiple industries, as well as professionally managing equities and crypto investments. His expertise in understanding market dynamics is a critical piece to Layer2DAO's ability to perform well as an DAO.
-
-#### [Exosphere](https://twitter.com/ExosphereL2) (**Project Management and Strategy)**
-
-Exosphere is a tech entrepreneur who runs multiple software businesses and has successfully launched blockchain projects for clients and startups. He also has extensive experience with blockchain infrastructure as an operator of a staking validator business. For Layer2DAO, he oversees the project vision, and coordinates team efforts, and provides insight on core product development.
+Milkywave is involved with several DeFi protocols and DAOs and has experience building partnerships between teams, and creating new strategic alliances.&#x20;
 
 #### [iz.rael](https://twitter.com/iz\_raell) (Community Manager)
 
-Izrael helps manage the Layer2DAO Discord and contributes critical ecosystem news to the community regarding anything Layer2 related. He's a passionate L2 user - and looks forward to a future where Ethereum Layer 2 brings financial access to millions of people around the world.&#x20;
+Izrael helps manage and grow multiple web3 communities, largely in Discord - and contributes critical ecosystem news to the community regarding anything Layer2 related. He's a passionate L2 user - and looks forward to a future where Ethereum Layer 2 brings financial access to millions of people around the world.&#x20;
 
 #### [Benita](https://twitter.com/BenitaUkachi) (Community Moderator)
 
 Benita is a web3 enthusiast who has a passion to help on-board people into the crypto space. She helps our DAO members get oriented as they explore the L2 space. She enjoys learning about Ethereum innovations, and helping community members of L2DAO find answers to any and all questions.\
 \
-Calvin (Community Moderator)\
+Calvin (Community Moderator)
+
+Calvin is a community moderator with years of time spent in web3 and is passionate about seeing new users on-boarded to the web3 space.\
 \
 Tobenna (Community Moderator)
+
+Tobenna is a web3 power user with an eye for graphic design. Currently contributing as a community moderator for the DAO.
+
+Dark Knight (Application Developer)
+
+Dark Knight is a developer with a focus on frontend development.
+
+Shawn (Application Developer)
+
+Shawn is a web3 dev with experience building gamified systems, crucial to the NFTEarth goals. His expertise is in frontend development, and he has helped build the leaderboard used to gamify the NFTEarth app.
+
+Dex (Cloud Infrastructure Lead)
+
+Dex is the lead developer in regards to NFTEarth cloud infrastructure, which is currently built on Google Cloud. Dex has thorough experience building and managing cloud deployments of applications and is working with the GCP team to make sure NFTEarth is optimized continuously.&#x20;
 
