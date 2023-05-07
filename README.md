@@ -7,7 +7,7 @@ cover: .gitbook/assets/Your paragraph text (1280 × 640 px) (2).png
 coverY: 2
 ---
 
-# 📑 NFTΞarth Documentation
+# 📖 NFTΞarth Documentation
 
 ## NFTEarth
 

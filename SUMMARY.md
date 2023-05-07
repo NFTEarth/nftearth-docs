@@ -2,15 +2,16 @@
 
 ## Overview
 
-* [📑 NFTΞarth Documentation](README.md)
+* [📖 NFTΞarth Documentation](README.md)
 * [🎯 Strategy](overview/strategy.md)
 * [💰 Tokenomics](overview/tokenomics.md)
+* [📑 NFTEarth Whitepaper](overview/nftearth-whitepaper.md)
 
 ## Resources
 
 * [☎ Contact](resources/contact.md)
 * [📜 Smart Contracts](resources/smart-contracts.md)
-* [🎬 Media Assets](resources/media-assets.md)
+* [🎬 Media Assets](resources/brand-assets.md)
 * [🫂 Team](resources/team.md)
 * [⚠ Disclaimers](resources/disclaimers.md)
 
