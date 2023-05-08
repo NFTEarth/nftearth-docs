@@ -32,23 +32,23 @@ Izrael helps manage and grow multiple web3 communities, largely in Discord - and
 
 Benita is a web3 enthusiast who has a passion to help on-board people into the crypto space. She helps our DAO members get oriented as they explore the L2 space. She enjoys learning about Ethereum innovations, and helping community members of L2DAO find answers to any and all questions.\
 \
-Calvin (Community Moderator)
+**Calvin (Community Moderator)**
 
 Calvin is a community moderator with years of time spent in web3 and is passionate about seeing new users on-boarded to the web3 space.\
 \
-Tobenna (Community Moderator)
+**Tobenna (Community Moderator)**
 
 Tobenna is a web3 power user with an eye for graphic design. Currently contributing as a community moderator for the DAO.
 
-Dark Knight (Application Developer)
+**Dark Knight (Application Developer)**
 
 Dark Knight is a developer with a focus on frontend development.
 
-Shawn (Application Developer)
+**Shawn (Application Developer)**
 
 Shawn is a web3 dev with experience building gamified systems, crucial to the NFTEarth goals. His expertise is in frontend development, and he has helped build the leaderboard used to gamify the NFTEarth app.
 
-Dex (Cloud Infrastructure Lead)
+**Dex (Cloud Infrastructure Lead)**
 
 Dex is the lead developer in regards to NFTEarth cloud infrastructure, which is currently built on Google Cloud. Dex has thorough experience building and managing cloud deployments of applications and is working with the GCP team to make sure NFTEarth is optimized continuously.&#x20;
 

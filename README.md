@@ -3,8 +3,8 @@ description: >-
   Welcome to the official NFTEarth documentation portal! NFTEarth is a
   decentralized autonomous organization focused on driving the the adoption of
   the Layer2 Ethereum ecosystem for NFTs.
-cover: .gitbook/assets/Your paragraph text (1280 × 640 px) (2).png
-coverY: 2
+cover: .gitbook/assets/NFTEarth (960 × 540 px).png
+coverY: -5
 ---
 
 # 📖 NFTΞarth Documentation

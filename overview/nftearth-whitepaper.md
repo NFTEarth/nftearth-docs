@@ -14,18 +14,8 @@ Excerpt from the first page:
 
 > NFTEarth - efficient mechanism for yield-bearing assets and NFT liquidity markets.
 >
-> Weston Nelson&#x20;
->
-> May 6, 2023&#x20;
->
 > \
->
->
-> Abstract
->
->
->
-> &#x20;    NFTEarth is a decentralized liquidity protocol and marketplace for NFT-based lending and NFT trading. The introduction of standardization for yield-bearing assets, combined with Layer2 scaling solutions and non-fungible tokens create the potential for an enormous new DeFi market to be captured in the form of collateralized lending. The protocol employs several unique key differentiators when compared with existing solutions that allow it to create efficiencies in an otherwise crowded Decentralized Finance/NFTFi ecosystem. Most notably, tokenized vaults increase diversification, which enables all participants to manage risk more effectively – this chief benefit; when combined with the lower cost of transaction on Layer2 networks and tokenized vaults, create a new primitive in composability and an extension of decentralized finance. The protocol leverages smart contracts, based on AAVE’s lending mechanics to facilitate both secure and LTV health focused borrowing and lending. Lenders establish positions using baskets of tokenized vaults, based on ERC-4626, represented and receive a receipt in the form of an NFT for their deposit and borrowers use NFTs, tokenized from yield-bearing vaults, as collateral.
+> &#x20;    NFTEarth is a decentralized liquidity protocol and marketplace for NFT-based lending and NFT trading. The introduction of standardization for yield-bearing assets (via ERC-4626), combined with Layer2 scaling solutions such as Arbitrum and StarkNet create enormous new potentials for expanding decentralized finance markets. For additional user growth and adoption, not only standardized vaults and lower costs must be introduced, but also a significantly more seamless and user-friendly UX for the end users of protocols, whether individuals or institutions. Baskets of yield-bearing Vaults, represented as non-fungible tokens, enable this potential in the DeFi ecosystem to be captured largely in the form of collateralized lending. Asset-backed lending is currently over a $1 trillion dollar market worldwide, and this allows for DeFi to begin tapping into this
 >
 > \
 >
