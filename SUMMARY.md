@@ -29,7 +29,8 @@
 
 ## GOVERNANCE
 
-* [📈 Earthenomics](governance/earthenomics.md)
+* [📈 Earthenomics](governance/earthenomics/README.md)
+  * [Decentralizing NFTEarth](governance/earthenomics/decentralizing-nftearth.md)
 * [❓ Governance Guide](governance/governance-guide.md)
 
 ## Relevant Links

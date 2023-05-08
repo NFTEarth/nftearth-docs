@@ -4,7 +4,7 @@ description: Decentralizing NFTEarth
 
 # 📈 Earthenomics
 
-<figure><img src="../.gitbook/assets/Earthenomics.svg" alt=""><figcaption><p>Earthenomics - NFTEarth Protocol Tokenomics</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Earthenomics.svg" alt=""><figcaption><p>Earthenomics - NFTEarth Protocol Tokenomics</p></figcaption></figure>
 
 The Earthenomics introduce a formalized path to the decentralization and autonomy of the NFTEarth Protocol. Covering governance mechanisms and financial incentives, it aims to share a vision of alignment between various stakeholders within the NFTEarth ecosystem, protocol functionality and the [NFTE](https://www.coingecko.com/en/coins/nftearth) token as a core securing element of the NFTEarth Protocol.
 
