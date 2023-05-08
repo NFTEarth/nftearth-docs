@@ -20,7 +20,9 @@
 * [🌏 NFTEarth Risk Framework](risk/nftearth-risk-framework.md)
 * [❕ Asset Risk](risk/asset-risk.md)
 * [🚦 Interest Rate Model](risk/interest-rate-model.md)
-* [🌊 Liquidity Risk](risk/liquidity-risk.md)
+* [🌊 Liquidity Risk](risk/liquidity-risk/README.md)
+  * [Overview](risk/liquidity-risk/overview.md)
+  * [Borrow Interest Rate](risk/liquidity-risk/borrow-interest-rate.md)
 
 ## DEVELOPERS
 
