@@ -20,13 +20,14 @@
 * [🌏 NFTEarth Risk Framework](risk/nftearth-risk-framework.md)
 * [❕ Asset Risk](risk/asset-risk.md)
 * [🚦 Interest Rate Model](risk/interest-rate-model.md)
-* [🌊 Liquidity Risk](risk/liquidity-risk/README.md)
+* [🌊 Liquidity Risk](risk/liquidity-risk.md)
   * [Overview](risk/liquidity-risk/overview.md)
   * [Borrow Interest Rate](risk/liquidity-risk/borrow-interest-rate.md)
 
 ## DEVELOPERS
 
 * [💻 NFTEarth Developer Docs](developers/nftearth-developer-docs.md)
+* [🤑 Arbitrum Liquidity](developers/arbitrum-liquidity.md)
 * [📜 Smart Contracts](developers/smart-contracts.md)
 
 ## GOVERNANCE
