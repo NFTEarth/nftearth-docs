@@ -1,12 +1,12 @@
 # Table of contents
 
-## Overview
+## START HERE
 
 * [📖 NFTΞarth Documentation](README.md)
-* [🎯 Strategy](overview/strategy.md)
-* [💰 Tokenomics](overview/tokenomics.md)
-* [📑 NFTEarth Whitepaper](overview/nftearth-whitepaper.md)
-* [⁉ FAQ](overview/faq.md)
+* [🎯 Strategy](start-here/strategy.md)
+* [💰 Tokenomics](start-here/tokenomics.md)
+* [📑 NFTEarth Whitepaper](start-here/nftearth-whitepaper.md)
+* [⁉ FAQ](start-here/faq.md)
 
 ## Resources
 
