@@ -3,17 +3,18 @@
 ## START HERE
 
 * [📖 NFTΞarth Documentation](README.md)
-* [🎯 Strategy](start-here/strategy.md)
-* [💰 Tokenomics](start-here/tokenomics.md)
-* [📑 NFTEarth Whitepaper](start-here/nftearth-whitepaper.md)
-* [⁉ FAQ](start-here/faq.md)
+* [🎯 Strategy](overview/strategy.md)
+* [💰 Tokenomics](overview/tokenomics.md)
+* [📑 NFTEarth Whitepaper](overview/nftearth-whitepaper.md)
+* [⁉ FAQ](overview/faq.md)
 
-## Resources
+## RESOURCES AND FEATURES
 
-* [☎ Contact](resources/contact.md)
-* [🎬 Media Assets](resources/brand-assets.md)
-* [🫂 Team](resources/team.md)
-* [⚠ Disclaimers](resources/disclaimers.md)
+* [☎ Earth Domains](resources-and-features/earth-domains.md)
+* [☎ Contact](resources-and-features/contact.md)
+* [🎬 Media Assets](resources-and-features/media-assets.md)
+* [🫂 Team](resources-and-features/team.md)
+* [⚠ Disclaimers](resources-and-features/disclaimers.md)
 
 ## RISK
 
