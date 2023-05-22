@@ -11,7 +11,8 @@
 
 ## RESOURCES AND FEATURES
 
-* [☎ Earth Domains](resources-and-features/earth-domains.md)
+* [🌏 Earth Domains](resources-and-features/earth-domains.md)
+* [📱 Mobile and Web Apps](resources-and-features/mobile-and-web-apps.md)
 * [☎ Contact](resources/contact.md)
 * [🎬 Media Assets](resources/brand-assets.md)
 * [🫂 Team](resources/team.md)

@@ -2,7 +2,7 @@
 description: Earth Domain Name Service
 ---
 
-# ☎ Earth Domains
+# 🌏 Earth Domains
 
 The Earth domain name service (EDNS) is a distributed, open, and extensible naming system based and built around the Arbitrum Layer2 optimistic rollup.
 

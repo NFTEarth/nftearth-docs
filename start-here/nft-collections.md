@@ -12,7 +12,7 @@ The [Earth Drop](https://earthdrop.nftearth.exchange/) Edition NFT from NFTEarth
 
 
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (3).png>)
 
 
 
