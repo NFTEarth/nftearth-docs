@@ -31,3 +31,11 @@ The NFT contract address is: 0x8Aee2F6d1c426F46C55caC2b5c48fc9c44c8C634
 View it on [Arbiscan](https://arbiscan.io/address/0x8aee2f6d1c426f46c55cac2b5c48fc9c44c8c634)\
 \
 Trade the Earth Drop NFT on [NFTEarth](https://nftearth.exchange/collection/arbitrum/0x8aee2f6d1c426f46c55cac2b5c48fc9c44c8c634) and [OpenSea](https://opensea.io/collection/earthdrop-nftearth)
+
+
+
+## Earthlings
+
+Earthlings is the flagship NFT project from NFTEarth, consisting of 4,444 unique NFTs on the Arbitrum blockchain. Designed to be dynamic, they are all 100% unique in their creation having been minted using generative AI technology, and they evolve over time based on conditional relationships that either are met, or not met, which have an impact on the NFT. The NFT also will send revenue share, or "RevDrops" directly to holders via smart contract; keeping the close connection of aligning the economic interests of holders with long-term interests of the project.
+
+<figure><img src="../.gitbook/assets/Beige Colorful Minimal Flowchart Infographic Graph.png" alt=""><figcaption><p>A flowchart highlighting the dynamic nature of the Earthling NFTs</p></figcaption></figure>
