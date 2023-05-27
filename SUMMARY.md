@@ -42,6 +42,6 @@
 ## Relevant Links
 
 * [Twitter](https://twitter.com/NFTEarth\_L2)
-* [Community Discord](https://discord.gg/nftearth)
+* [Discord](https://discord.gg/nftearth)
 * [GitHub](https://github.com/NFTEarth)
 * [App](https://nftearth.exchange)
