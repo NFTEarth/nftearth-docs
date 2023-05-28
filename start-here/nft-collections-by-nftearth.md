@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/NFTEarth (960 × 540 px).png
 coverY: -5
 ---
 
-# 🎨 NFT Collections
+# 🎨 NFT Collections by NFTEarth
 
 ## Earth Drop Edition&#x20;
 
@@ -38,7 +38,7 @@ Trade the Earth Drop NFT on [NFTEarth](https://nftearth.exchange/collection/arbi
 
 Earthlings are a collection of 4,444 NFTs and  the flagship NFT project from NFTEarth, consisting of entirely unique NFTs, created using generative AI technology on the Arbitrum L2 network. Designed to be dynamic, they are all 100% unique in their creation having been minted using generative AI technology, and they evolve over time based on conditional relationships that either are met, or not met, which have an impact on the NFT. The NFT also will send revenue share, or "RevDrops" directly to holders via smart contract; keeping the close connection of aligning the economic interests of holders with long-term interests of the project.
 
-### Mint at: [https://mintearthling.nftearth.exchange](nft-collections.md#mint-at-https-mintearthling.nftearth.exchange)&#x20;
+### Mint at: [https://mintearthling.nftearth.exchange](nft-collections-by-nftearth.md#mint-at-https-mintearthling.nftearth.exchange)&#x20;
 
 <figure><img src="../.gitbook/assets/Beige Colorful Minimal Flowchart Infographic Graph.png" alt=""><figcaption><p>A flowchart highlighting the dynamic nature of the Earthling NFTs</p></figcaption></figure>
 
