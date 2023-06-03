@@ -39,13 +39,16 @@
   * [xNFTE](governance-and-tokenomics/earthenomics/xnfte.md)
   * [Staking Rewards](governance-and-tokenomics/earthenomics/staking-rewards.md)
 * [❓ Governance Guide](governance-and-tokenomics/governance-guide.md)
+* [🔓 NFTE](governance-and-tokenomics/nfte/README.md)
+  * [xNFTE Revenue Sharing](governance-and-tokenomics/nfte/xnfte-revenue-sharing.md)
 * [📜 DAO Multsigs](governance-and-tokenomics/dao-multsigs.md)
 * [💰 Tokenomics](governance-and-tokenomics/tokenomics.md)
 
 ## Links
 
+* [Earthlings Mint Site](https://mintearthling.nftearth.exchange)
+* [App](https://nftearth.exchange)
 * [Twitter](https://twitter.com/NFTEarth\_L2)
 * [Discord](https://discord.gg/nftearth)
 * [GitHub](https://github.com/NFTEarth)
 * [Snapshot](https://snapshot.org/#/nftearthl2.eth)
-* [App](https://nftearth.exchange)
