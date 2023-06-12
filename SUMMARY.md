@@ -4,7 +4,7 @@
 
 * [📖 NFTΞarth Documentation](README.md)
 * [🎨 NFT Collections by NFTEarth](start-here/nft-collections-by-nftearth.md)
-* [🎯 Strategy](overview/strategy.md)
+* [🎯 2023 Roadmap](start-here/2023-roadmap.md)
 * [📑 NFTEarth Whitepaper](overview/nftearth-whitepaper.md)
 * [⁉ FAQ](overview/faq.md)
 
