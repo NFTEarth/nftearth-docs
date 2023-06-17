@@ -8,7 +8,7 @@ description: The NFTEarth 2023 Roadmap
 
 **First things first,** there are only 4,444 Earthlings. [Mint an Earthling](https://stake.nftearth.exchange) NFT now while they only cost .004444 $ETH to mint! You can go straight to the Mint page by scanning this QR code:
 
-<figure><img src="../.gitbook/assets/Mint Earthling QR Code.png" alt="" width="384"><figcaption><p>QR Code for convenient NFT Minting Access</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Mint Earthling QR Code.png" alt=""><figcaption><p>QR Code for convenient Earthling NFT Minting Access</p></figcaption></figure>
 
 ## NFTEarth Community Update: Unveiling Our 2023 Roadmap
 
