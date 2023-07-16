@@ -1,2 +1,0 @@
-# 💻 NFTEarth Developer Docs
-

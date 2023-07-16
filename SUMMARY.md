@@ -1,53 +1,35 @@
 # Table of contents
 
-## START HERE
+## GETTING STARTED
 
 * [📖 NFTΞarth Documentation](README.md)
-* [🎨 NFT Collections by NFTEarth](start-here/nft-collections-by-nftearth.md)
-* [🎯 2023 Roadmap](start-here/2023-roadmap.md)
-* [📑 NFTEarth Whitepaper](overview/nftearth-whitepaper.md)
-* [⁉ FAQ](overview/faq.md)
+* [👛 Connecting A Wallet](getting-started/connecting-a-wallet.md)
+* [🎨 NFT Collections by NFTEarth](getting-started/nft-collections-by-nftearth.md)
+* [🎯 2023 Roadmap](getting-started/2023-roadmap.md)
 
 ## RESOURCES AND FEATURES
 
-* [☎ Earth Domains](resources-and-features/earth-domains.md)
 * [📱 Mobile and Web Apps](resources-and-features/mobile-and-web-apps.md)
 * [🎬 Media Assets](resources/brand-assets.md)
 * [☎ Contact](resources/contact.md)
 * [🫂 Team](resources/team.md)
 * [⚠ Disclaimers](resources/disclaimers.md)
 
-## RISK
+## NFTE TOKEN
 
-* [🌏 NFTEarth Risk Framework](risk/nftearth-risk-framework.md)
-* [❕ Asset Risk](risk/asset-risk.md)
-* [🚦 Interest Rate Model](risk/interest-rate-model.md)
-* [🌊 Liquidity Risk](risk/liquidity-risk.md)
-  * [Overview](risk/liquidity-risk/overview.md)
-  * [Borrow Interest Rate](risk/liquidity-risk/borrow-interest-rate.md)
+* [🌏 NFTE Token and Tokenomics](nfte-token/nfte-token-and-tokenomics.md)
+* [🚦 veNFTE and NFTE Staking](nfte-token/venfte-and-nfte-staking.md)
+* [❕ How to Stake NFTE](nfte-token/how-to-stake-nfte.md)
 
 ## DEVELOPERS
 
-* [💻 NFTEarth Developer Docs](developers/nftearth-developer-docs.md)
-* [🤑 NFTE Liquidity](developers/nfte-liquidity.md)
 * [📜 Smart Contracts](developers/smart-contracts.md)
-
-## GOVERNANCE AND TOKENOMICS
-
-* [📈 Earthenomics](governance-and-tokenomics/earthenomics/README.md)
-  * [Decentralizing NFTEarth](governance-and-tokenomics/earthenomics/decentralizing-nftearth.md)
-  * [xNFTE](governance-and-tokenomics/earthenomics/xnfte.md)
-  * [Staking Rewards](governance-and-tokenomics/earthenomics/staking-rewards.md)
-* [❓ Governance Guide](governance-and-tokenomics/governance-guide.md)
-* [🔓 NFTE](governance-and-tokenomics/nfte/README.md)
-  * [xNFTE Revenue Sharing](governance-and-tokenomics/nfte/xnfte-revenue-sharing.md)
-* [📜 DAO Multsigs](governance-and-tokenomics/dao-multsigs.md)
-* [💰 Tokenomics](governance-and-tokenomics/tokenomics.md)
+* [📜 DAO Multsigs](developers/dao-multsigs.md)
 
 ## Links
 
 * [Earthlings Mint Site](https://mintearthling.nftearth.exchange)
-* [App](https://nftearth.exchange)
+* [dApp](https://nftearth.exchange)
 * [Twitter](https://twitter.com/NFTEarth\_L2)
 * [Discord](https://discord.gg/nftearth)
 * [GitHub](https://github.com/NFTEarth)

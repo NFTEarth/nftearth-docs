@@ -1,16 +1,16 @@
 ---
 description: >-
-  NFTEarth is a decentralized autonomous organization focused on driving the the
-  adoption of the Layer2 Ethereum ecosystem for NFTs.
-cover: .gitbook/assets/NFTEarth (960 × 540 px).png
-coverY: -5
+  NFTEarth is a DAO focused on driving the global adoption of non-fungible
+  technology (NFTs) on Ethereum scaling networks.
+cover: .gitbook/assets/NFTΞarth (3000 × 1500 px).png
+coverY: 97
 ---
 
 # 📖 NFTΞarth Documentation
 
 ## About NFTEarth
 
-NFTEarth is a fun and playful NFT protocol that is focused on NFTFi and Layer2 Ethereum scaling networks. With a and community built on mostly on Arbitrum L2, and a flagship product Earthlings serving as a central piece of the NFTEarth Metaverse. What began as a free mint in December 2022, has evolved into a web3 digital citizenship and cultural movement with significant IP/brand potential and a vibrant community of artists, builders, and storytellers. NFTEarth was born to promote L2 adoption. We have been selected by Google Cloud for Startups as a web3 project, and granted $200,000 in Cloud Credits to build out NFTEarth on the GCP Cloud infrastructure.
+NFTEarth is a fun and playful NFT protocol that is focused on NFTFi and Layer2 Ethereum scaling networks. With a community built on mostly on Arbitrum and Optimism L2s, and a flagship NFT product Earthlings serving as a central piece of the NFTEarth Metaverse. The project began as a free mint NFT in December 2022, and from there has evolved into a lively and ambitious protocol aiming for bringing users from all over the Earth to web3. The team seeks to create web3 digital citizenship and a cultural movement with significant IP/brand potential and a vibrant community of artists, builders, and storytellers. NFTEarth was born to promote L2 adoption. The protocol was selected by Google Cloud for Startups Web3 as a project to receive exclusive support from Google Cloud; and granted $200,000 in Cloud Credits to build out NFTEarth on GCP Cloud infrastructure.
 
 
 
@@ -27,3 +27,15 @@ Why Layer2? Lower costs enable the potential for much greater web3 adoption.
 {% endhint %}
 
 The increasing number of applications and users on Ethereum are responsible for increasing the load on the network. The capacity of the Ethereum network is limited. Therefore, the cost of using the network increases prominently with more and more users competing with each other for adding transactions to the Ethereum network. So, Ethereum [layer2](https://ethereum.org/en/layer-2/) scaling solutions are considered vital instruments for addressing the problems with network performance. Many solutions for Ethereum scaling are undergoing research, testing, and implementation with different approaches for achieving scalability.&#x20;
+
+
+
+### How to use NFTEarth
+
+Follow our handy guides to get started using NFTEarth as quickly as possible:
+
+{% content-ref url="getting-started/connecting-a-wallet.md" %}
+[connecting-a-wallet.md](getting-started/connecting-a-wallet.md)
+{% endcontent-ref %}
+
+If you're new to NFTs and DeFi - don't fret! We make it easy to get started. The first thing you need is a digital wallet, also sometimes called a cryptocurrency wallet. This quick guide will help you install (if you don't have one already) and get connected to the NFTEarth dApp.
