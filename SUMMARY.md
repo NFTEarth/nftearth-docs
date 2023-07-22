@@ -17,13 +17,13 @@
 
 ## NFTE TOKEN
 
-* [🌏 NFTE Token and Tokenomics](nfte-token/nfte-token-and-tokenomics.md)
-* [🚦 veNFTE and NFTE Staking](nfte-token/venfte-and-nfte-staking.md)
+* [🌏 ONFTE Token and Tokenomics](nfte-token/onfte-token-and-tokenomics.md)
+* [🚦 veONFTE and ONFTE Staking](nfte-token/veonfte-and-onfte-staking.md)
 * [❕ How to Stake NFTE](nfte-token/how-to-stake-nfte.md)
 
 ## DEVELOPERS
 
-* [📜 Smart Contracts](developers/smart-contracts.md)
+* [📜 Contract Addresses](developers/contract-addresses.md)
 * [📜 DAO Multsigs](developers/dao-multsigs.md)
 
 ## Links
