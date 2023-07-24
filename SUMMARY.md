@@ -5,7 +5,7 @@
 * [📖 NFTΞarth Documentation](README.md)
 * [👛 Connecting A Wallet](getting-started/connecting-a-wallet.md)
 * [🎨 NFT Collections by NFTEarth](getting-started/nft-collections-by-nftearth.md)
-* [🎯 2023 Roadmap](getting-started/2023-roadmap.md)
+* [🎯 Roadmap and OFT Benefits](getting-started/roadmap-and-oft-benefits.md)
 
 ## RESOURCES AND FEATURES
 
@@ -15,11 +15,12 @@
 * [🫂 Team](resources/team.md)
 * [⚠ Disclaimers](resources/disclaimers.md)
 
-## NFTE TOKEN
+## ONFTE TOKEN
 
-* [🌏 ONFTE Token and Tokenomics](nfte-token/onfte-token-and-tokenomics.md)
-* [🚦 veONFTE and ONFTE Staking](nfte-token/veonfte-and-onfte-staking.md)
-* [❕ How to Stake NFTE](nfte-token/how-to-stake-nfte.md)
+* [📈 Where to Purchase ONFTE](onfte-token/where-to-purchase-onfte.md)
+* [🌏 ONFTE Token and Tokenomics](onfte-token/onfte-token-and-tokenomics.md)
+* [🚦 veONFTE and ONFTE Staking](onfte-token/veonfte-and-onfte-staking.md)
+* [❕ How to Stake NFTE](onfte-token/how-to-stake-nfte.md)
 
 ## DEVELOPERS
 

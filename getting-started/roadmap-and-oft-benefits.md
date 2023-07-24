@@ -2,13 +2,19 @@
 description: The NFTEarth 2023 Roadmap
 ---
 
-# 🎯 2023 Roadmap
+# 🎯 Roadmap and OFT Benefits
 
-<figure><img src="../.gitbook/assets/NFTE.svg" alt="" width="64"><figcaption><p>NFTEarth Icon Mark</p></figcaption></figure>
-
-**First things first,** there are only 4,444 Earthlings. [Mint an Earthling](https://stake.nftearth.exchange) NFT now while they only cost .004444 $ETH to mint! You can go straight to the Mint page by scanning this QR code:
+**First things first,** there are only 4,444 Earthlings. [Mint an Earthling](https://earthlings.nftearth.exchange) NFT now while they are available in $ETH to mint! You can go straight to the Mint page by scanning this QR code:
 
 <figure><img src="../.gitbook/assets/Mint Earthling QR Code.png" alt=""><figcaption><p>QR Code for convenient Earthling NFT Minting Access</p></figcaption></figure>
+
+## Article on the Major LayerZero OFT Benefits:
+
+
+
+{% embed url="https://link3.to/nftearth_l2/post/77ae58f30ca049d706157ed567dbdd6af9b7c4e8525d66eeb9d5f42614c78896" %}
+Check out this article that goes in depth into why OFT is the future.
+{% endembed %}
 
 ## NFTEarth Community Update: Unveiling Our 2023 Roadmap
 
