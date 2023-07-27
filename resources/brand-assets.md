@@ -15,6 +15,7 @@ description: >-
 
 ## **NFTEarth Color Palette**
 
+* Mint Green: #79FFA8
 * Pastel Green: #6FE99A&#x20;
 * Como: #4A7C5F&#x20;
 * Silver Tree: #5DBC84
@@ -29,5 +30,3 @@ description: >-
 <figure><img src="../.gitbook/assets/NFTE_Icon.png" alt=""><figcaption><p>NFTEarth Icon .PNG</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/1024 (2).png" alt=""><figcaption><p>NFTEarth Full Brand Logo .PNG</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/128 x 128.png" alt=""><figcaption><p>$NFTE Token Icon .PNG</p></figcaption></figure>

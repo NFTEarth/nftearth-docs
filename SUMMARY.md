@@ -15,12 +15,12 @@
 * [🫂 Team](resources/team.md)
 * [⚠ Disclaimers](resources/disclaimers.md)
 
-## ONFTE TOKEN
+## NFTE TOKEN
 
-* [📈 Where to Purchase ONFTE](onfte-token/where-to-purchase-onfte.md)
-* [🌏 ONFTE Token and Tokenomics](onfte-token/onfte-token-and-tokenomics.md)
-* [🚦 veONFTE and ONFTE Staking](onfte-token/veonfte-and-onfte-staking.md)
-* [❕ How to Stake NFTE](onfte-token/how-to-stake-nfte.md)
+* [📈 Where to Purchase NFTE](nfte-token/where-to-purchase-nfte.md)
+* [🌏 NFTE Token and Tokenomics](nfte-token/nfte-token-and-tokenomics.md)
+* [🚦 veNFTE and NFTE Staking](nfte-token/venfte-and-nfte-staking.md)
+* [❕ How to Stake NFTE](nfte-token/how-to-stake-nfte.md)
 
 ## DEVELOPERS
 
@@ -29,9 +29,9 @@
 
 ## Links
 
-* [Earthlings Mint Site](https://mintearthling.nftearth.exchange)
-* [dApp](https://nftearth.exchange)
+* [Earthlings Mint Site](https://earthlings.nftearth.exchange)
+* [dApp](https://app.nftearth.exchange)
 * [Twitter](https://twitter.com/NFTEarth\_L2)
-* [Discord](https://discord.gg/nftearth)
+* [Discord](https://discord.gg/YygTaPuNPc)
 * [GitHub](https://github.com/NFTEarth)
 * [Snapshot](https://snapshot.org/#/nftearthl2.eth)
