@@ -7,6 +7,13 @@
 * [🎨 NFT Collections by NFTEarth](getting-started/nft-collections-by-nftearth.md)
 * [🎯 Roadmap and OFT Benefits](getting-started/roadmap-and-oft-benefits.md)
 
+## NFTE TOKEN
+
+* [📈 Where to Purchase NFTE](nfte-token/where-to-purchase-nfte.md)
+* [🌏 NFTE Token and Tokenomics](nfte-token/nfte-token-and-tokenomics.md)
+* [🚦 veNFTE and NFTE Staking](nfte-token/venfte-and-nfte-staking.md)
+* [❕ How to Stake NFTE](nfte-token/how-to-stake-nfte.md)
+
 ## RESOURCES AND FEATURES
 
 * [📱 Mobile and Web Apps](resources-and-features/mobile-and-web-apps.md)
@@ -14,13 +21,8 @@
 * [☎ Contact](resources/contact.md)
 * [🫂 Team](resources/team.md)
 * [⚠ Disclaimers](resources/disclaimers.md)
-
-## NFTE TOKEN
-
-* [📈 Where to Purchase NFTE](nfte-token/where-to-purchase-nfte.md)
-* [🌏 NFTE Token and Tokenomics](nfte-token/nfte-token-and-tokenomics.md)
-* [🚦 veNFTE and NFTE Staking](nfte-token/venfte-and-nfte-staking.md)
-* [❕ How to Stake NFTE](nfte-token/how-to-stake-nfte.md)
+* [⚠ Terms of Use](resources-and-features/terms-of-use.md)
+* [⚠ Privacy Policy](resources-and-features/privacy-policy.md)
 
 ## DEVELOPERS
 
