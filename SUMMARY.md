@@ -5,7 +5,7 @@
 * [📖 NFTΞarth Documentation](README.md)
 * [👛 Connecting A Wallet](getting-started/connecting-a-wallet.md)
 * [🎨 NFT Collections by NFTEarth](getting-started/nft-collections-by-nftearth.md)
-* [🎯 Roadmap and OFT Benefits](getting-started/roadmap-and-oft-benefits.md)
+* [🎯 Roadmap and Omnichain Future](getting-started/roadmap-and-omnichain-future.md)
 
 ## NFTE TOKEN
 

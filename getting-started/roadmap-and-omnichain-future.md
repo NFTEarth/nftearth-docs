@@ -2,8 +2,12 @@
 description: The NFTEarth 2023 Roadmap
 ---
 
-# 🎯 Roadmap and OFT Benefits
+# 🎯 Roadmap and Omnichain Future
 
+READ OUR ARTICLE PUBLISHED ON MEDIUM ABOUT THE MAJOR BENEFITS OF ADOPTING THE LAYERZERO OMNICHAIN FUNGIBLE TOKEN STANDARD. \
+\
+LINK: [https://medium.com/@nftearth/nftearth-aims-to-create-one-unified-experience-for-onfte-by-using-layerzeros-oft-technology-923533412b5f](https://medium.com/@nftearth/nftearth-aims-to-create-one-unified-experience-for-onfte-by-using-layerzeros-oft-technology-923533412b5f)\
+\
 **First things first,** there are only 4,444 Earthlings. [Mint an Earthling](https://earthlings.nftearth.exchange) NFT now while they are available in $ETH to mint! You can go straight to the Mint page by scanning this QR code:
 
 <figure><img src="../.gitbook/assets/Mint Earthling QR Code.png" alt=""><figcaption><p>QR Code for convenient Earthling NFT Minting Access</p></figcaption></figure>
