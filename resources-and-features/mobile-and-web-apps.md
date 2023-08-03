@@ -16,7 +16,7 @@ The ambition is unchanged with the rollout of the mobile application - to enable
 
 Check out some sneak peeks! We think that most people will appreciate the flexibility that comes with being able to use web3 when on their mobile device, at their desktop - or anywhere in between.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>The native mobile app in development for iOS and Android</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p>The native mobile app in development for iOS and Android</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/icons8-google-play-48.png" alt=""><figcaption><p>Android</p></figcaption></figure>
 

@@ -44,3 +44,9 @@ description: This page lists the NFTEarth NFTE token contract addresses on each 
 | Contract |  Type |                                                      Linea Address                                                     |
 | :------: | :---: | :--------------------------------------------------------------------------------------------------------------------: |
 |   NFTE   | Token | [0x2140Ea50bc3B6Ac3971F9e9Ea93A1442665670e4](https://lineascan.build/token/0x2140ea50bc3b6ac3971f9e9ea93a1442665670e4) |
+
+### Mantle
+
+| Contract |  Type |                                                               Mantle Address                                                               |
+| :------: | :---: | :----------------------------------------------------------------------------------------------------------------------------------------: |
+|   NFTE   | Token | [0x3E173b825ADEeF9661920B91A8d50B075Ad51bA5](https://explorer.mantle.xyz/token/0x3E173b825ADEeF9661920B91A8d50B075Ad51bA5/token-transfers) |
