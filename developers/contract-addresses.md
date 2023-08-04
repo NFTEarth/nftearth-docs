@@ -50,3 +50,11 @@ description: This page lists the NFTEarth NFTE token contract addresses on each 
 | Contract |  Type |                                                               Mantle Address                                                               |
 | :------: | :---: | :----------------------------------------------------------------------------------------------------------------------------------------: |
 |   NFTE   | Token | [0x3E173b825ADEeF9661920B91A8d50B075Ad51bA5](https://explorer.mantle.xyz/token/0x3E173b825ADEeF9661920B91A8d50B075Ad51bA5/token-transfers) |
+
+### Ethereum
+
+| Contract |  Type |                                                   Ethereum Address                                                  |
+| :------: | :---: | :-----------------------------------------------------------------------------------------------------------------: |
+|   NFTE   | Token | [0x8c223a82E07feCB49D602150d7C2B3A4c9630310](https://etherscan.io/token/0x8c223a82e07fecb49d602150d7c2b3a4c9630310) |
+|          |       |                                                                                                                     |
+|          |       |                                                                                                                     |
