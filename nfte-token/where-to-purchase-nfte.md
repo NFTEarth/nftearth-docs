@@ -1,6 +1,6 @@
 ---
 description: >-
-  The NFTEarth native protocol token NFTE is currently deployed to 7 blockchain
+  The NFTEarth native protocol token NFTE is currently deployed to 9 blockchain
   networks including Arbitrum, Optimism, Polygon, Avalanche, BNB Chain, Linea,
   Base, Mantle, and Ethereum with more to come.
 ---
