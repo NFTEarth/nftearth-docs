@@ -6,7 +6,7 @@ description: >-
 
 # 🎬 Media Assets
 
-## Usage Guidelines:
+Usage Guidelines:
 
 * Use the NFTEarth logo in its original form.
 * Do not place the logo on backgrounds that provide insufficient contrast.
@@ -25,8 +25,6 @@ description: >-
 
 
 
-<figure><img src="../.gitbook/assets/200X200.png" alt="Token Icon"><figcaption><p>$NFTE Token Icon .PNG</p></figcaption></figure>
+
 
 <figure><img src="../.gitbook/assets/NFTE_Icon.png" alt=""><figcaption><p>NFTEarth Icon .PNG</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/1024 (2).png" alt=""><figcaption><p>NFTEarth Full Brand Logo .PNG</p></figcaption></figure>

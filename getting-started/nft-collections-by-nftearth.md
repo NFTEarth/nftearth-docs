@@ -1,7 +1,7 @@
 ---
 description: NFT Collections from the NFTEarth team.
-cover: ../.gitbook/assets/NFTEarth (960 × 540 px).png
-coverY: -5
+cover: ../.gitbook/assets/NFTΞarth (3000 × 1500 px).png
+coverY: 0
 ---
 
 # 🎨 NFT Collections by NFTEarth
