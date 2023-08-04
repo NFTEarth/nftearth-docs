@@ -26,7 +26,7 @@
 
 ## DEVELOPERS
 
-* [📜 Contract Addresses](developers/contract-addresses.md)
+* [📜 NFTEarth Contract Addresses](developers/nftearth-contract-addresses.md)
 * [📜 DAO Multsigs](developers/dao-multsigs.md)
 
 ## Links
