@@ -34,6 +34,6 @@
 * [Earthlings Mint Site](https://earthlings.nftearth.exchange)
 * [dApp](https://app.nftearth.exchange)
 * [Twitter](https://twitter.com/NFTEarth\_L2)
-* [Discord](https://discord.gg/YygTaPuNPc)
+* [Discord](https://discord.gg/nftearth)
 * [GitHub](https://github.com/NFTEarth)
 * [Snapshot](https://snapshot.org/#/nftearthl2.eth)

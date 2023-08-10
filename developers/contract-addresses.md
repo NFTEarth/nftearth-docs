@@ -12,7 +12,7 @@ description: >-
 
 ## Base
 
-<table data-full-width="true"><thead><tr><th align="center">Contract</th><th align="center">Type</th><th align="center">Base Address</th></tr></thead><tbody><tr><td align="center">NFTE</td><td align="center">Token</td><td align="center">0xc2106ca72996e49bBADcB836eeC52B765977fd20</td></tr><tr><td align="center">SushiSwap Pool</td><td align="center">Liquidity Pool</td><td align="center">0xD4C749ab52232F376019A37cc9bC06d086404944</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th align="center">Contract</th><th align="center">Type</th><th align="center">Base Address</th></tr></thead><tbody><tr><td align="center">NFTE</td><td align="center">Token</td><td align="center">0xc2106ca72996e49bBADcB836eeC52B765977fd20</td></tr><tr><td align="center">HorizonDEX Pool</td><td align="center">Liquidity Pool</td><td align="center">0x23CB0C12AE9D4d48D3ACaA8067b3e8f8303BCf40</td></tr><tr><td align="center">HorizonDEX Farm</td><td align="center">Incentives</td><td align="center">TBD</td></tr><tr><td align="center">SushiSwap Pool</td><td align="center">Liquidity Pool</td><td align="center">0xD4C749ab52232F376019A37cc9bC06d086404944</td></tr></tbody></table>
 
 ## Optimism
 
@@ -32,7 +32,7 @@ description: >-
 
 ## Linea
 
-<table data-full-width="true"><thead><tr><th align="center">Contract</th><th align="center">Type</th><th align="center">Linea Address</th></tr></thead><tbody><tr><td align="center">NFTE</td><td align="center">Token</td><td align="center">0x2140Ea50bc3B6Ac3971F9e9Ea93A1442665670e4</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th align="center">Contract</th><th align="center">Type</th><th align="center">Linea Address</th></tr></thead><tbody><tr><td align="center">NFTE</td><td align="center">Token</td><td align="center">0x2140Ea50bc3B6Ac3971F9e9Ea93A1442665670e4</td></tr><tr><td align="center">HorizonDEX Pool</td><td align="center">Liquidity Pool</td><td align="center">0xc9dc3Eda8f6B664E2e25d632bB4d4f28Ab58EE3c</td></tr><tr><td align="center">HorizonDEX Farm</td><td align="center">Incentives</td><td align="center">TBD</td></tr></tbody></table>
 
 ## Mantle
 
