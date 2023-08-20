@@ -14,12 +14,12 @@ description: >-
 1. [SushiSwap (Arbitrum)](https://www.sushi.com/swap?token1=0x51b902f19a56f0c8e409a34a215ad2673edf3284\&fromChainId=42161\&fromCurrency=NATIVE\&toChainId=42161\&toCurrency=0x51B902f19a56F0c8E409a34a215AD2673EDF3284)
 2. [SushiSwap (Optimism)](https://www.sushi.com/swap?token1=0x8637725ada78db0674a679cea2a5e0a0869ef4a1)
 3. [SushiSwap (Polygon)](https://www.sushi.com/swap?token1=0x492fa53b88614923937b7197c87e0f7f8eeb7b20)
-4. PancakeSwap (BNB Chain)
-5. TraderJoe (Avalanche)
-6. [HorizonDex (Linea)](https://app.horizondex.io/swap?outputCurrency=0x2140ea50bc3b6ac3971f9e9ea93a1442665670e4)
-7. [HorizonDEX (Base)](https://app.horizondex.io/swap?outputCurrency=0xc2106ca72996e49bbadcb836eec52b765977fd20)
-8. SushiSwap (Ethereum)
-9. Mantle (TBD)
+4. [HorizonDex (Linea)](https://app.horizondex.io/swap?outputCurrency=0x2140ea50bc3b6ac3971f9e9ea93a1442665670e4)
+5. [HorizonDEX (Base)](https://app.horizondex.io/swap?outputCurrency=0xc2106ca72996e49bbadcb836eec52b765977fd20)
+6. [SushiSwap (Ethereum)](https://www.sushi.com/swap?chainId=1\&token0=NATIVE\&token1=0x8c223a82E07feCB49D602150d7C2B3A4c9630310)
+7. Mantle (TBD)
+8. Avalanche (TBD)
+9. BNB Chain (TBD)
 
 ## NFTE Token Basics
 
