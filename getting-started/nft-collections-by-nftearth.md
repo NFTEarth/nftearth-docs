@@ -25,7 +25,7 @@ The NFT contract address is: 0x8778B7FD7e2480C6F9Ad1075Bd848B7Ce1b9d90C
 
 View it on [Arbiscan](https://arbiscan.io/address/0x8778b7fd7e2480c6f9ad1075bd848b7ce1b9d90c)\
 \
-Trade the Earthlings NFT on [NFTEarth](https://nftearth.exchange/collection/arbitrum/0x8778b7fd7e2480c6f9ad1075bd848b7ce1b9d90c) and [OpenSea](https://opensea.io/collection/earthlings-nftearth)
+Trade the Earthlings NFT on [NFTEarth](https://app.nftearth.exchange/arbitrum/collection/0x8778b7fd7e2480c6f9ad1075bd848b7ce1b9d90c) and [OpenSea](https://opensea.io/collection/earthlings-nftearth)
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Beige Colorful Minimal Flowchart Infographic Graph.png" alt=""><figcaption><p>A flowchart highlighting the dynamic nature of the Earthling NFTs</p></figcaption></figure>
@@ -48,5 +48,5 @@ The NFT contract address is: 0x8Aee2F6d1c426F46C55caC2b5c48fc9c44c8C634
 View it on [Arbiscan](https://arbiscan.io/address/0x8aee2f6d1c426f46c55cac2b5c48fc9c44c8c634)
 
 \
-Trade the Earth Drop NFT on [NFTEarth](https://nftearth.exchange/collection/arbitrum/0x8aee2f6d1c426f46c55cac2b5c48fc9c44c8c634) and [OpenSea](https://opensea.io/collection/earthdrop-nftearth)
+Trade the Earth Drop NFT on [NFTEarth](https://app.nftearth.exchange/arbitrum/collection/0x8aee2f6d1c426f46c55cac2b5c48fc9c44c8c634) and [OpenSea](https://opensea.io/collection/earthdrop-nftearth)
 {% endhint %}

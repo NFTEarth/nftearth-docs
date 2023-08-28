@@ -18,7 +18,7 @@
 ## RESOURCES AND FEATURES
 
 * [📱 Mobile and Web Apps](resources-and-features/mobile-and-web-apps.md)
-* [🎬 Media Assets](resources/brand-assets.md)
+* [🎬 Brand Assets](resources-and-features/brand-assets.md)
 * [☎ Contact](resources/contact.md)
 * [🫂 Team](resources/team.md)
 * [⚠ Disclaimers](resources/disclaimers.md)
@@ -32,9 +32,9 @@
 
 ## Links
 
+* [NFTEarth dApp](https://app.nftearth.exchange)
 * [Earthlings Mint Site](https://earthlings.nftearth.exchange)
-* [dApp](https://app.nftearth.exchange)
-* [Twitter](https://twitter.com/NFTEarth\_L2)
+* [X](https://twitter.com/NFTEarth\_L2)
 * [Discord](https://discord.gg/nftearth)
 * [GitHub](https://github.com/NFTEarth)
 * [Snapshot](https://snapshot.org/#/nftearthl2.eth)

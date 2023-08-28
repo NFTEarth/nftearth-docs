@@ -10,9 +10,11 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Fortune Game by NFTEarth</p></figcaption></figure>
 
-The Fortune system is designed to operate a transparent, fair, and decentralized game directly on the Ethereum blockchain. It utilizes smart contracts to handle the process, ensuring trust and integrity. The Fortune system is structured around a series of 'rounds'. Each round represents a single iteration of the game, where participants can enter by making deposits (`ETH`/`ERC-721`/`ERC-20`), and winners are selected at the end.
+The Fortune system is designed to operate a transparent, fair, and decentralized game directly onchain. It utilizes smart contracts to handle the process, ensuring trust and integrity and is deployed on leading Ethereum layer2 network [Arbitrum](https://arbitrum.io/). The Fortune system is structured around a series of 'rounds'. Each round represents a single iteration of the game, where participants can enter by making deposits (`ETH`/`ERC-721`/`ERC-20`), and winners are selected at the end.
 
 The likelihood of a participant winning is equivalent to the share of the total pot they deposited. Each deposit value is calculated, and each participant is allocated a number of entry spots proportional to the value deposited. The Fortune contract relies on a few external oracles: Chainlink for fair randomness, Reservoir for ERC-721 pricing data and Uniswap for ERC-20 pricing data.
+
+The benefits of onchain gaming applications like Fortune include several aspects, but primarily 2 major benefits stand out: first, by using Chainlink VRF, the ability to tamper with the outcome is nearly impossible - leading to more fair and transparent games accessible to anyone with an internet connection across the world. Second, by deploying the game on a scaling solution such as Arbitrum; this makes the costs to enter and play the game significantly lower than using Ethereum Mainnet - meaning many more users to be reached through the game.
 
 **NOTE**: All NFTs in a collection will be valued at the floor price of the collection; rarity is not accounted for.
 
@@ -75,7 +77,7 @@ If a round is cancelled, the system will immediately start a new round. The depo
 
 An ERC-20 token price is determined by relying on the Uniswap oracle.
 
-The YOLO contract requests the TWAP (time-weighted average price) from Uniswap.
+The Fortune contract requests the TWAP (time-weighted average price) from Uniswap.
 
 **10. How is the price for an ERC-721 token determined?**[**​**](https://docs.looksrare.org/developers/yolo/yolo-overview#10-how-is-the-price-for-an-erc-721-token-determined)
 
