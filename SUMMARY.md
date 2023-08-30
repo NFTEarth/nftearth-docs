@@ -6,6 +6,7 @@
 * [👛 Connecting A Wallet](getting-started/connecting-a-wallet.md)
 * [🎨 NFT Collections by NFTEarth](getting-started/nft-collections-by-nftearth.md)
 * [🎯 Roadmap and Omnichain Future](getting-started/roadmap-and-omnichain-future.md)
+* [🌏 100 Year Strategy](getting-started/100-year-strategy.md)
 * [🎲 NFTEarth Fortune](getting-started/nftearth-fortune.md)
 
 ## NFTE TOKEN
