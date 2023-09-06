@@ -2,12 +2,12 @@
 description: >-
   The NFTEarth native protocol token NFTE is currently deployed to 9 blockchain
   networks including Arbitrum, Optimism, Polygon, Avalanche, BNB Chain, Linea,
-  Base, Mantle, and Ethereum with more to come.
+  Base, Mantle, and Ethereum.
 ---
 
-# 📈 Where to Purchase NFTE
+# 📈 Where to Swap NFTE
 
-## Where NFTE is Available for Purchase
+## Where NFTE is Available too Swap
 
 **DEXs**
 
@@ -25,4 +25,4 @@ description: >-
 
 NFTE is the native utility token of the NFTEarth ecosystem. It is designed primarily to be used for staking, voting, and boosting rewards. It is designed in a way that its value increases over time.
 
-NFTE is an ERC-20 token that incorporates LayerZero’s Omnichain Fungible Token (OFT) standard for true cross-chain interoperability. By leveraging this innovative token architecture, the protocol has enabled a new era of interoperability across chains. Being natively Omnichain provides several large benefits for NFTEarth users and stakeholders - such as easy bridging of NFTE between chains and simultaneously leading to increased security when compared to the more common bridging methods, which are liquidity based. NFTE is currently live on Arbitrum, Optimism, Polygon, Avalanche, BNB Chain, Linea, Base, Mantle, and Ethereum.
+NFTE is an ERC-20 token that incorporates [LayerZero’s](https://layerzero.network/) Omnichain Fungible Token (OFT) standard for seamless cross-chain interoperability. By leveraging this innovative token and cross-chain messaging architecture, the protocol has enabled a new era of interoperability across chains for the NFT ecosystem. Being natively Omnichain provides several large benefits for NFTEarth users and stakeholders - such as easy bridging of NFTE between chains, while simultaneously leading to increased security when compared with the more common bridging methods, which are liquidity based and thus pose greater risks to the protocol. NFTE is currently live on Arbitrum, Optimism, Polygon, Avalanche, BNB Chain, Linea, Base, Mantle, and Ethereum. Every bridging transaction completed in the NFTEarth in-app bridge - or via block explorer or direct contract call, is a LayerZero transaction. Once you have initiated a Tx on the NFTEarth Bridge - you can copy the transaction hash from each relevant transaction and paste it into [LayerZero Scan](https://layerzeroscan.com/) to view it from the LayerZero Team's custom block explorer.&#x20;
