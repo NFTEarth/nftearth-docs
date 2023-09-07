@@ -34,7 +34,7 @@
 
 ## Links
 
-* [NFTEarth dApp](https://app.nftearth.exchange)
+* [NFTEarth dApp](https://nftearth.exchange)
 * [X](https://twitter.com/NFTEarth\_L2)
 * [Discord](https://discord.gg/nftearth)
 * [GitHub](https://github.com/NFTEarth)
