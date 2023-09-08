@@ -36,6 +36,6 @@
 
 * [NFTEarth dApp](https://nftearth.exchange)
 * [X](https://twitter.com/NFTEarth\_L2)
-* [Discord](https://discord.gg/nftearth)
+* [Discord](https://discord.gg/56a7u3wDkX)
 * [GitHub](https://github.com/NFTEarth)
 * [Snapshot](https://snapshot.org/#/nftearthl2.eth)
