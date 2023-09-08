@@ -8,9 +8,9 @@ coverY: 0
 
 Earthlings
 
-Earthlings are a collection of 3,131 NFTs and  the flagship NFT project from NFTEarth, consisting of entirely unique NFTs, created using generative AI technology on the Arbitrum L2 network. Designed to be dynamic, they are all 100% unique in their creation having been minted using generative AI technology, and they evolve over time based on conditional relationships that either are met, or not met, which have an impact on the NFT. The NFT also will send revenue share, or "RevDrops" directly to holders via smart contract; keeping the close connection of aligning the economic interests of holders with long-term interests of the project.
+Earthlings are a collection of 3,131 NFTs from NFTEarth, consisting of entirely unique NFTs, created using generative AI technology on the Arbitrum L2 network. Designed to be dynamic, they are all 100% unique in their creation having been minted using generative AI technology, and they evolve over time based on conditional relationships that either are met, or not met, which have an impact on the NFT. The NFT also will enable owners to revenue share, or "RevDrops" for holders via smart contract; keeping the close connection of aligning the economic interests of holders with long-term interests of the project.
 
-<figure><img src="../.gitbook/assets/15.png" alt="Earthling NFT" width="188"><figcaption><p>A unique Earthling NFT, 1 of 4,444 in total</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/15.png" alt="Earthling NFT" width="188"><figcaption><p>A unique Earthling NFT, 1 of 3,131 in total</p></figcaption></figure>
 
 {% hint style="info" %}
 What is the Earthling NFT smart contract address on Arbitrum? \
