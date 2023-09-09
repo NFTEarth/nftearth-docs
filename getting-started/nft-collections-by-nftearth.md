@@ -21,5 +21,5 @@ The NFT contract address is: 0x8778B7FD7e2480C6F9Ad1075Bd848B7Ce1b9d90C
 
 View it on [Arbiscan](https://arbiscan.io/address/0x8778b7fd7e2480c6f9ad1075bd848b7ce1b9d90c)\
 \
-Trade the Earthlings NFT on [NFTEarth](../nfte-token/how-to-stake-nfte.md).
+Trade the Earthlings NFT on [NFTEarth](../nfte-token/nfte-burn-mechanism.md).
 {% endhint %}

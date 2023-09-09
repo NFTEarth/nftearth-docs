@@ -15,7 +15,7 @@
 * [📈 Where to Swap NFTE](nfte-token/where-to-swap-nfte.md)
 * [🌏 NFTE Token and Tokenomics](nfte-token/nfte-token-and-tokenomics.md)
 * [🚦 xNFTE and NFTE Staking](nfte-token/xnfte-and-nfte-staking.md)
-* [❕ How to Stake NFTE](nfte-token/how-to-stake-nfte.md)
+* [❕ NFTE Burn Mechanism](nfte-token/nfte-burn-mechanism.md)
 
 ## RESOURCES AND FEATURES
 
