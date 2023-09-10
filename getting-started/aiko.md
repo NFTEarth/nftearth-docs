@@ -22,3 +22,10 @@ AIKO is designed to leverage the vast capabilities of LLMs in order to provide a
 Users will be able to mint their own individual and customized NFTs, upgrade them over time for additional utility, and enjoy other benefits only available to NFT holders.&#x20;
 
 <figure><img src="../.gitbook/assets/AIKO_NFT.png" alt=""><figcaption><p>Create a SmartNFT at NFTEarth</p></figcaption></figure>
+
+## SmartNFTs by NFTEarth
+
+Take a few minutes to read the published Medium article about the SmartNFT products being released by NFTEarth.\
+\
+Read the article here: [https://medium.com/@nftearth/introducing-smartnfts-by-nftearth-ad5c7f047f8b](https://medium.com/@nftearth/introducing-smartnfts-by-nftearth-ad5c7f047f8b)
+
