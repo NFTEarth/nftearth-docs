@@ -4,18 +4,18 @@
 
 * [📖 NFTΞarth Documentation](README.md)
 * [👛 Connecting A Wallet](getting-started/connecting-a-wallet.md)
-* [🎯 Roadmap and Omnichain Future](getting-started/roadmap-and-omnichain-future.md)
+* [🎯 Roadmap](getting-started/roadmap.md)
 * [🎲 NFTEarth Fortune](getting-started/nftearth-fortune.md)
-* [🤖 AIKO](getting-started/aiko.md)
+* [🤖 SmartNFT](getting-started/smartnft.md)
 * [🎨 NFT Collections by NFTEarth](getting-started/nft-collections-by-nftearth.md)
 * [🌏 100 Year Strategy](getting-started/100-year-strategy.md)
 
 ## NFTE TOKEN
 
-* [📈 Where to Swap NFTE](nfte-token/where-to-swap-nfte.md)
 * [🌏 NFTE Token and Tokenomics](nfte-token/nfte-token-and-tokenomics.md)
 * [🚦 xNFTE and NFTE Staking](nfte-token/xnfte-and-nfte-staking.md)
-* [❕ NFTE Burn Mechanism](nfte-token/nfte-burn-mechanism.md)
+* [📈 Where to Swap NFTE](nfte-token/where-to-swap-nfte.md)
+* [🔥 NFTE Burn Mechanism](nfte-token/nfte-burn-mechanism.md)
 
 ## RESOURCES AND FEATURES
 

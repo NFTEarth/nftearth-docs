@@ -4,7 +4,7 @@ description: >-
   dynamics for the native protocol token.
 ---
 
-# ❕ NFTE Burn Mechanism
+# 🔥 NFTE Burn Mechanism
 
 Please see the article published by the NFTEarth team on Medium for details regarding the beginning implementation of the NFTE Burn Mechanism. \
 \

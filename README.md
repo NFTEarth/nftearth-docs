@@ -2,8 +2,8 @@
 description: >-
   NFTEarth is a DAO focused on driving the global adoption of non-fungible
   technology (NFTs) on Ethereum scaling networks.
-cover: .gitbook/assets/NFTΞarth (3000 × 1500 px).png
-coverY: 97
+cover: .gitbook/assets/3000 x 1500.png
+coverY: 0
 ---
 
 # 📖 NFTΞarth Documentation
