@@ -12,7 +12,7 @@ description: >-
 
 ## Ethereum
 
-<table data-full-width="false"><thead><tr><th align="center">Contract</th><th align="center">Type</th><th align="center">Ethereum Address</th></tr></thead><tbody><tr><td align="center">NFTE</td><td align="center">Token</td><td align="center">0x8c223a82E07feCB49D602150d7C2B3A4c9630310</td></tr><tr><td align="center">xNFTE</td><td align="center">Staking</td><td align="center">(Coming Soon)</td></tr><tr><td align="center">SushiSwap</td><td align="center">Liquidity Pool</td><td align="center">0xc5e0a6a1fe4b128c342702ca96346f8846493924</td></tr><tr><td align="center">Uniswap</td><td align="center">Liquidity Pool</td><td align="center">0x1ddadfa3103F0FD8a625fd93C0a808d6d8aF1B32</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th align="center">Contract</th><th align="center">Type</th><th align="center">Ethereum Address</th></tr></thead><tbody><tr><td align="center">NFTE</td><td align="center">Token</td><td align="center">0x8c223a82E07feCB49D602150d7C2B3A4c9630310</td></tr><tr><td align="center">SushiSwap</td><td align="center">Liquidity Pool</td><td align="center">0xc5e0a6a1fe4b128c342702ca96346f8846493924</td></tr><tr><td align="center">Uniswap</td><td align="center">Liquidity Pool</td><td align="center">0x1ddadfa3103F0FD8a625fd93C0a808d6d8aF1B32</td></tr><tr><td align="center">SmartNFT</td><td align="center">AI NFT Collection</td><td align="center">0xF7a821Aa22fC10635e934C7D99DB8f60343d9202</td></tr></tbody></table>
 
 ## Base
 

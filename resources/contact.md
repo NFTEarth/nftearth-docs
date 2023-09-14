@@ -1,7 +1,9 @@
 # ☎ Contact
 
-Email: team@layer2nfts.org
+X: @NFTEarth\_L2
 
 Discord: https://discord.gg/nftearth
 
-Twitter: @NFTEarth\_L2
+Telegram: https://t.me/nftearth\_community
+
+Email: team@layer2nfts.org

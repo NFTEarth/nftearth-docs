@@ -4,9 +4,9 @@ description: >-
   announcements - included here are logos and icons in PNG formats
 ---
 
-# 🎬 Media Assets
+# 🎬 Brand Assets
 
-Usage Guidelines:
+Usage Guidelines
 
 * Use the NFTEarth logo in its original form.
 * Do not place the logo on backgrounds that provide insufficient contrast.
@@ -15,15 +15,9 @@ Usage Guidelines:
 
 ## **NFTEarth Color Palette**
 
-* Mint Green: #79FFA8
-* Pastel Green: #6FE99A&#x20;
-* Como: #4A7C5F&#x20;
-* Silver Tree: #5DBC84
-*   Aqua Forest: #59AD78
+### Colors
 
-
-
-
+<table data-full-width="false"><thead><tr><th align="center">Color</th><th align="center">Hex</th></tr></thead><tbody><tr><td align="center">NFTEarth Green</td><td align="center">#79ffa8</td></tr><tr><td align="center">NFTEarth Purple</td><td align="center">#a879ff</td></tr><tr><td align="center">NFTEarth White</td><td align="center">#ffffff</td></tr><tr><td align="center">Pastel Green</td><td align="center">#6fe99a</td></tr><tr><td align="center">Aqua Forest</td><td align="center">#59ad78</td></tr><tr><td align="center">Como</td><td align="center">#4a7c5f</td></tr><tr><td align="center">NFTEarth Black</td><td align="center">#000000</td></tr></tbody></table>
 
 
 
