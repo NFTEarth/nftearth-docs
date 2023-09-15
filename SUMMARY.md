@@ -7,6 +7,8 @@
 * [🎯 Roadmap](getting-started/roadmap.md)
 * [🎲 NFTEarth Fortune](getting-started/nftearth-fortune.md)
 * [🤖 SmartNFT](getting-started/smartnft.md)
+* [🌀 EarthChat](getting-started/earthchat.md)
+* [📛 Earth Domains](getting-started/earth-domains.md)
 * [🎨 NFT Collections by NFTEarth](getting-started/nft-collections-by-nftearth.md)
 * [🌏 100 Year Strategy](getting-started/100-year-strategy.md)
 

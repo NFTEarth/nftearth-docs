@@ -14,10 +14,32 @@ NFTEarthOFT (Omnichain Fungible Token)
 
 ### Current Roadmap
 
-* [ ] NFTE Staking Contract Deployment
+
+
+**2023**
+
+* [x] Launch Omnichain token to serve as native protocol token for NFTEarth (Completed July 2023)
+* [x] Build in-app Omnichain bridge powered by LayerZero (Completed July 2023)
+* [x] Build first Chainlink VRF enabled game on Layer2 (Completed August 2023)
+* [x] Enable Buying/Selling of NFTs on Arbitrum in $NFTE, and $ETH (Completed August 2023)
+* [x] Build first AI-infused NFT Avatars (Completed September 2023)
+* [ ] Add $ARB as payment currency on NFT marketplace
+* [ ] Deploy NFTE Staking Contract Deployment
 * [ ] Staking UI
 * [ ] Epoch DAO Accounting Reports for Revenue Sharing
 * [ ] NFT Utility for Earthling + SmartNFT Avatars
 * [ ] Additional Exchange Listings/Collaborations (DEX or CEX)
 * [ ] Applications for Grants to secure DAO runway
+* [ ] Arbitrum Gitcoin Grants Round Participant
+* [ ] Establish new strategic partnership with AMM liquidity protocol.
+* [ ] Build and deploy decentralized web3 SocialFi messaging application
+* [ ] Build and deploy decentralized web3 name service to compete with ENS and UD - full integration with chat application - Earth Domains.
+* [ ] Apply to Gitcoin Grants formal quarterly round led by Gitcoin
+* [ ] Apply to Ethereum Foundation for a grant to build AI into NFT use-cases
+
+**2024**
+
+* [ ] Establish over $1M in onchain liquidity via innovative LP staking mechanism to enable large buyers and institutions to get involved in NFTE ecosystem
+* [ ] Complete CEX listing on Tier A exchange (Binance, Coinbase, Gate.io, Huobi, KuCoin) for enhanced liquidity for all users
+* [ ] Complete enhancements to PWA and deploy native mobile applications for iOS and Android
 
