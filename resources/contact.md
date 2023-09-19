@@ -6,4 +6,4 @@ Discord: https://discord.gg/nftearth
 
 Telegram: https://t.me/nftearth\_community
 
-Email: team@layer2nfts.org
+Email: team@nftearth.exchange

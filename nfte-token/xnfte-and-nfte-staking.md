@@ -1,5 +1,5 @@
 ---
-description: Aligning Incentives - Real Yield, Revenue Sharing, and Empowered Governance
+description: "Introducing xNFTE: NFTEarth Becomes First NFT Protocol to Offer Real Yield From Staking and Revenue\_Sharing"
 ---
 
 # 🚦 xNFTE and NFTE Staking
@@ -14,25 +14,29 @@ xNFTE balances dictate voting power in both governance proposals and incentive d
 
 Please reference the Medium article published on specifics relating to xNFTE.
 
+### The 3 Contracts That Make xNFTE Work:
+
+**The 3 Contracts You Need To Understand to Grasp the xNFTE System:**
+
+1. **Gamma Vault** (Tokenized NFTE / WETH LP Position) Contract Address: [0x82496243c0a1a39c5c6250bf0115c134ba76698c](https://arbiscan.io/address/0x82496243c0a1a39c5c6250bf0115c134ba76698c) on Arbitrum.
+2. **xNFTE** Contract Address — where you deposit your NFTE LP position obtained from Gamma Strategies: [0xE57bd15448C3b2D1dBAD598775DD2F36F93EBf90](https://arbiscan.io/address/0xe57bd15448c3b2d1dbad598775dd2f36f93ebf90) on Arbitrum. Once deposited, you will have an xNFTE balance.
+3. **FeeDistributor** — for xNFTE stakers to claim rewards - Contract Address: [0x9138a2e628f92a42397b3b600e86047ae49aca98](https://arbiscan.io/address/0x9138a2e628f92a42397b3b600e86047ae49aca98) on Arbitrum.
+
+### What is xNFTE and How Does it Work?
+
+For some context, it’s important to understand some of the most successful governance and value accrual tokenomic models that have been built in web3 up until now. Curve innovated with veCRV - pioneering the concept of locking up tokens, and it worked exceptionally well for them and kicked off a massive amount of protocols moving to a ve (vote-escrowed) model. Lock your CRV tokenw and get veCRV, which earns you rewards and governance control. Balancer then innovated on what Curve built with veBAL, where instead of locking a single token, token holders lock a liquidity position (LP) consisting of BAL / WETH tokens — and they also changed the duration of max-time locking from veCRV down to 1 year. The change to an LP token as the locking token means that as more tokens get locked, \*liquidity increases\* which is a fundamentally innovative and massive competitive advantage for any protocol that implements it — and absolutely ideal for any protocol looking to bootstrap long-term liquidity. The results of this change speak for themselves. The BAL token is currently one of the single most liquid tokens in all of crypto, with its liquidity nearly equal to the market cap of the token. See the image below from DexScreener and check it out for yourself. With xNFTE, we aim to expand on this concept that Balancer implemented, with a couple of slight improvements. We will be using the leading decentralized exchange (DEX) by volume on Arbitrum — UniswapV3 — and additionally our staking contract is also deployed to Arbitrum layer2 as well, opposed to Ethereum Mainnet because of the lower costs of completing transactions on Arbitrum. This creates significantly more opportunities to attract new users interested in becoming part of the long-term vision of the protocol and taking part in protocol governance.
+
+**So, why haven’t any other protocols done this? Especially any NFT protocols?**
+
+First off, the trend towards this type of governance staking mechanism is clear. This is the direction that many protocols are looking to move to, and Balancer has even introduced an entire initiative aiming to onboard new protocols to this type of “Locked LP as governance” staking mechanism. The challenge with doing this with UniswapV3 positions is this: since they are created as ERC-721 NFTs — non-fungible tokens — this by default makes them inherently not composable with the type of staking contract designed for protocol revenue sharing based on staking by token holders — meaning these positions can’t be used to simply transfer into a staking contract, like what is possible with a UniswapV2 position.
+
+So, enter AMM specialist [Gamma Strategies](https://gamma.xyx/). We’ve partnered with Gamma to help innovate past this obstacle in order to create composability and enable the deposit of UniswapV3 positions (in our case NFTE / WETH), by creating a tokenized representation of the NFT position which can then be staked for xNFTE. Innovation enabled. The depositor of the UniswapV3 position on Gamma Strategies receives in exchange for their deposit, an ERC-20 token which can then be used to be staked, thus solving the issue of composability. They can do this in a pre-determined and fixed liquidity range as well, making the entire staking mechanism discussed here possible.
+
+As the goal for the NFTEarth staking mechanism is to expand liquidity, and not focus on optimization of fee capture, the positions created through Gamma are full-range UniswapV3 positions — which makes them function in a similar essence to UniswapV2 positions in terms of the weight of each token in the liquidity pool. So, what Gamma does explicitly is: enable the functionality desired (a transferrable representation of the pro-rata share of UniswapV3 LP position of NFTE / WETH to the xNFTE staking contract). Users can deposit directly to the NFTE / WETH position in the Gamma UI or via smart contract, and then the address that completes the deposit receives the token receipt that represents their amount of shares, pro-rata, to the total supplied in this unique LP NFTE / WETH UniswapV3 position. This token receipt created by Gamme is what is used for reliable bookkeeping as to always know which addresses own how many shares of the Vault, and consequently, the staked LP positions as well that determine the amount of xNFTE that any address possesses.
+
+Important note: Users can still add to UniswapV3 pool for NFTE / WETH on Arbitrum outside of the Gamma Strategies partner protocol solution, or even create a position on Gamma and choose \*not\* to stake as well. NFTEarth is the first protocol to do this innovative UniswapV3 staking mechanism in web3, and also the first to do so on a layer2 network, enabling governance and value accrual for significantly more users than if deployed just on Ethereum Mainnet…where costs to create and add to positions is prohibitive for the vast majority of people around the Earth.
+
 {% hint style="info" %}
-Curve innovated with veCRV pioneering locking up tokens and it worked exceptionally well for them and kicked off a massive amount of protocols moving to a ve (vote-escrowed) model. Lock your CRV and get veCRV which earns you rewards and governance control. Balancer then innovated on what Curve built with veBAL, where instead of locking a single token, token holders lock a liquidity position (LP) consisting of BAL / WETH tokens — and they also changed the duration of max-time locking. The change to an LP token as the locking token means that as more tokens get locked, \***LIQUIDITY INCREASES\*** which is a fundamentally innovative and distinct competitive advantage for any protocol that implements it - and absolutely ideal for any protocol looking to bootstrap long-term liquidity. \
-\
-The results of this change speak for themselves, BAL is currently one of the single most liquid tokens in all of crypto, with its liquidity nearly equal to the market cap of the token. See the image below from DexScreener and check it out for yourself.\
-\
-With xNFTE, we aim to expand on this concept that Balancer implemented, with a couple slight improvements. We will be using the leading decentralized exchange (DEX) by volume on Arbitrum - Uniswapv3 - and also deploying the staking solution on layer2 Arbitrum as well, opposed to Ethereum Mainnet. This creates significantly more opportunities to attract new users interested in becoming part of the long-term vision of the protocol and taking part in protocol governance.
-
-So, Why haven't any other protocols done this? Especially an NFT protocol?
-
-The trend is clear, first off. This is the direction that many protocols are looking to move towards, and Balancer has even introduced an entire initiative aiming to onboard new protocols to this type of LP as governance staking mechanism. The challenge with Uniswapv3 positions is this: since they are created as ERC-721 NFTs - non-fungible tokens - by default this makes them inherently not composable  with the type of staking contract designed for protocol revenue sharing — meaning they can’t be used to simply transfer into a staking contract, like is possible with a Univ2 position.&#x20;
-
-So, Enter AMM specialist Gamma Strategies. Gamma, like several other protocols that specialize in DEX liquidity management, enables the deposit of Univ3 positions in the form of an NFT, and creates a tokenized representation that the depositor receives, which can then be used to be staked, thus solving the issue of composability. They can do this in a pre-set liquidity range as well, making the entire staking mechanism discussed here possible.&#x20;
-
-As the goal for the NFTEarth staking mechanism is to expand liquidity, and not focus on optimization of fee capture, the positions created through Gamma are full-range Univ3 positions — which makes them function in a similar essence to Univ2 positions in terms of the weight of each token in the liquidity pool. So, what Gamma does explicitly is: **enables the functionality desired (a transferrable representation of the pro-rata share of Univ3 LP of NFTE / WETH to the staking contract).** Since we will be partnering with Gamma Strategies to enable this, they create a full-range Univ3 position of NFTE / WETH that users can deposit into directly in their UI or via smart contract, and then the address that makes the deposit receives a token receipt which represents their amount of shares pro-rata to the total supplied in this unique LP position. This token receipt is then what is used for reliable bookkeeping as to who owns how many shares of the Vault and then what is staked in order to obtain xNFTE.&#x20;
-
-Important note: Users can still add to Uniswapv3 pool for NFTE / WETH on Arbitrum outside of the Gamma Strategies partner protocol solution, or even add their position to the Gamma tokenized version, and choose \*not\* to stake as well.
-
-NFTEarth is the first protocol to do this in web3, and also the first to do so on a layer2 network, enabling governance and value accrual for significantly more users than if deployed just on Ethereum Mainnet...where costs to create and add to positions is prohibitive for the vast majority of people around the Earth.
-
 **In a single sentence, the more liquidity you provide and the longer time period you stake, the greater your rewards and governance power!**
 {% endhint %}
 
@@ -62,4 +66,9 @@ A user’s xNFTE balance is a reflection of their voting power in the protocol. 
 >
 > If two users stake the same amount of NFTE LP tokens and choose the same end-date, but then one of the users extends their staking period to a further end-date, that user will receive an increase to their xNFTE balance. That is, if Alice and Bob both stake 100 NFTE LP tokens on July 1, 2023 and both choose a staking period that ends on July 1, 2024, they will initially have the same xNFTE. But if Alice later extends her staking period to August 1, 2024, her xNFTE balance will increase because her staking multiplier will increase.
 
+
+
+**Miscellaneous:**&#x20;
+
+\
 Over time, the voting power of older stakes will be diluted since new stakes will have higher multipliers applied to their xNFTE balance. **The best way to maximize your voting power and xNFTE balance is therefore to stake NFTE LP tokens for the maximum 1 year staking period and simply extend your staking period on a regular basis.**
