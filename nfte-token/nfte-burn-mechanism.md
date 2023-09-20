@@ -6,9 +6,9 @@ description: >-
 
 # 🔥 NFTE Burn Mechanism
 
-Please see the article published by the NFTEarth team on Medium for details regarding the beginning implementation of the NFTE Burn Mechanism. \
-\
-The published article can be viewed at this link: [https://medium.com/@nftearth/nftearths-tokenomic-model-upgrades-phase-1-upgrades-implementation-leveraging-supply-side-55433f73e7ff](https://medium.com/@nftearth/nftearths-tokenomic-model-upgrades-phase-1-upgrades-implementation-leveraging-supply-side-55433f73e7ff)
+Please see the article published by the NFTEarth team on Medium for details regarding the beginning implementation of the NFTE Burn Mechanism:
+
+{% embed url="https://medium.com/@nftearth/nftearths-tokenomic-model-upgrades-phase-1-upgrades-implementation-leveraging-supply-side-55433f73e7ff" %}
 
 **NFTE Burn Transactions**
 

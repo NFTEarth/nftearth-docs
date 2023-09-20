@@ -1,7 +1,5 @@
 ---
-description: >-
-  This page lists the NFTEarth contract addresses on each chain (NFTE is an
-  Omnichain Fungible Token currently deployed to 9 chains).
+description: This page lists the NFTEarth contract addresses on each chain.
 ---
 
 # 📜 Contract Addresses

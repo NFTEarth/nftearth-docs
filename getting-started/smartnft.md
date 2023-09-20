@@ -1,17 +1,17 @@
 ---
 description: >-
   The NFTEarth AI is an onchain AI application powered by non-fungible
-  technology combined with GPT models in order to create a new NFT experience
-  for users.
+  technology combined with GPT models designed to create a new NFT experience
+  for users, powered by machine learning.
 ---
 
-# 🤖 AIKO
+# 🤖 SmartNFT
 
 **Introducing** **AIKO**
 
 **Aiko is the first NFT Avatar from NFTEarth infused with AI powered by Google Vertex AI and ReadyPlayerMe Avatars.** \
 \
-**NFTs and AI can together create tremendous synergies, AIKO has been created to be the first NFT protocol in-app guide, digital companion, and resource to all users of the NFTEarth protocol.**
+NFTs and AI can together create tremendous synergies, AIKO has been created to be the first NFT protocol in-app guide, digital companion, and resource to all users of the NFTEarth protocol.
 
 <figure><img src="../.gitbook/assets/AIKO.png" alt=""><figcaption><p>AIKO from NFTEarth</p></figcaption></figure>
 
@@ -27,5 +27,9 @@ Users will be able to mint their own individual and customized NFTs, upgrade the
 
 Take a few minutes to read the published Medium article about the SmartNFT products being released by NFTEarth.\
 \
-Read the article here: [https://medium.com/@nftearth/introducing-smartnfts-by-nftearth-ad5c7f047f8b](https://medium.com/@nftearth/introducing-smartnfts-by-nftearth-ad5c7f047f8b)
+Read the published article here:&#x20;
+
+{% embed url="https://medium.com/@nftearth/introducing-smartnfts-by-nftearth-ad5c7f047f8b" %}
+SmartNFT by NFTEarth
+{% endembed %}
 

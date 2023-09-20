@@ -22,3 +22,7 @@ Usage Guidelines
 
 
 <figure><img src="../.gitbook/assets/NFTE_Icon.png" alt=""><figcaption><p>NFTEarth Icon .PNG</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/1024 x 1024.png" alt=""><figcaption><p>1024 x 1024 PNG</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/111111.png" alt=""><figcaption><p>1920 x 1080 Logo PNG</p></figcaption></figure>

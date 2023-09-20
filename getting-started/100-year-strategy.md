@@ -1,8 +1,8 @@
 ---
 description: >-
-  The NFTEarth Protocol: 100-Year Roadmap  Note: This roadmap outlines a vision
+  The NFTEarth Protocol: 100-Year Roadmap - Note: This roadmap outlines a vision
   for the NFTEarth protocol's growth over the next century, focusing on its core
-  principles in a clear roadmap.
+  principles in a clear outline.
 ---
 
 # 🌏 100 Year Strategy

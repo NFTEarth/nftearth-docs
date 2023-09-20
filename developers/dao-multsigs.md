@@ -1,4 +1,4 @@
-# 📜 DAO Multsigs
+# 👯 DAO Multsigs
 
 ## Multisig Safe Addresses and Respective Chain:
 

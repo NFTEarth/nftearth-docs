@@ -19,25 +19,25 @@
 * [📈 Where to Swap NFTE](nfte-token/where-to-swap-nfte.md)
 * [🔥 NFTE Burn Mechanism](nfte-token/nfte-burn-mechanism.md)
 
-## RESOURCES AND FEATURES
+## RESOURCES
 
-* [📱 Mobile and Web Apps](resources-and-features/mobile-and-web-apps.md)
-* [🎬 Brand Assets](resources-and-features/brand-assets.md)
+* [🎬 Brand Assets](resources/brand-assets.md)
 * [☎ Contact](resources/contact.md)
 * [🫂 Team](resources/team.md)
 * [⚠ Disclaimers](resources/disclaimers.md)
-* [⚠ Terms of Use](resources-and-features/terms-of-use.md)
-* [⚠ Privacy Policy](resources-and-features/privacy-policy.md)
+* [⚠ Terms of Use](resources/terms-of-use.md)
+* [⚠ Privacy Policy](resources/privacy-policy.md)
 
 ## DEVELOPERS
 
 * [📜 Contract Addresses](developers/contract-addresses.md)
-* [📜 DAO Multsigs](developers/dao-multsigs.md)
+* [👯 DAO Multsigs](developers/dao-multsigs.md)
 
 ## Links
 
 * [NFTEarth dApp](https://nftearth.exchange)
 * [X](https://twitter.com/NFTEarth\_L2)
 * [Discord](https://discord.gg/56a7u3wDkX)
+* [Telegram](https://t.me/nftearth\_community)
 * [GitHub](https://github.com/NFTEarth)
 * [Snapshot](https://snapshot.org/#/nftearthl2.eth)
