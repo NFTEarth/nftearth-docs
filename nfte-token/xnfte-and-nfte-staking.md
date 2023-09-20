@@ -65,17 +65,6 @@ A user’s xNFTE balance is a reflection of their voting power in the protocol. 
 * Amount of NFTE LP tokens staked
 * Duration of staking period
 
-> **Example 1**\
-> If two users stake the same amount of NFTE LP tokens on the same date, but select different end-dates for their stake, they will receive correspondingly different xNFTE balances. So, if Alice and Bob both stake 100 NFTE LP tokens on July 1, 2023, but Alice selects an end-date of July 1, 2024 and Bob selects an end-date of August 1, 2024, Bob will receive more xNFTE because his staking multiplier will be greater.
->
-> **Example 2**
->
-> If two users stake the same amount of NFTE LP tokens on different dates, but the end-date of their stake is the same, they will receive the same xNFTE balance. That is, if Alice stakes 100 NFTE LP tokens on July 1, 2023 and Bob stakes 100 NFTE LP tokens on July 1, 2024, but they both choose a staking period that ends on June 30, 2024, they will have the same xNFTE balance. This is because their 100 NFTE LP tokens are subject to the same multiplier.
->
-> **Example 3**
->
-> If two users stake the same amount of NFTE LP tokens and choose the same end-date, but then one of the users extends their staking period to a further end-date, that user will receive an increase to their xNFTE balance. That is, if Alice and Bob both stake 100 NFTE LP tokens on July 1, 2023 and both choose a staking period that ends on July 1, 2024, they will initially have the same xNFTE. But if Alice later extends her staking period to August 1, 2024, her xNFTE balance will increase because her staking multiplier will increase.
-
 **Miscellaneous:**&#x20;
 
 \
