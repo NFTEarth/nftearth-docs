@@ -12,6 +12,8 @@ NFTE is the native utility token of the NFTEarth ecosystem. It is designed prima
 
 NFTE is an ERC-20 token that leverages the LayerZero Omnichain Fungible Token (OFT) extension, which enables easy, fast, and secure bridging of NFTE cross-chain. NFTE is currently live on 9 chains - contract information can be found [here](../developers/contract-addresses.md).
 
+***
+
 ### View NFTE Token Information on CoinGecko and CoinMarketCap:
 
 CoinGecko: [https://www.coingecko.com/en/coins/nftearth](https://www.coingecko.com/en/coins/nftearth)

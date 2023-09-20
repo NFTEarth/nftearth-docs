@@ -10,6 +10,8 @@ Please see the article published by the NFTEarth team on Medium for details rega
 
 {% embed url="https://medium.com/@nftearth/nftearths-tokenomic-model-upgrades-phase-1-upgrades-implementation-leveraging-supply-side-55433f73e7ff" %}
 
+***
+
 **NFTE Burn Transactions**
 
 Burn Transactions on Arbitrum can be viewed on the Arbiscan block explorer here: [NFTE Burn Events](https://arbiscan.io/token/0x51b902f19a56f0c8e409a34a215ad2673edf3284?a=0x000000000000000000000000000000000000dEaD)&#x20;

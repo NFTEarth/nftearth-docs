@@ -26,6 +26,8 @@ Medium publication on xNFTE
 2. **xNFTE** Contract Address — where you deposit your NFTE LP position obtained from Gamma Strategies: [0xE57bd15448C3b2D1dBAD598775DD2F36F93EBf90](https://arbiscan.io/address/0xe57bd15448c3b2d1dbad598775dd2f36f93ebf90) on Arbitrum. Once deposited, you will have an xNFTE balance.
 3. **FeeDistributor** — for xNFTE stakers to claim rewards - Contract Address: [0x9138a2e628f92a42397b3b600e86047ae49aca98](https://arbiscan.io/address/0x9138a2e628f92a42397b3b600e86047ae49aca98) on Arbitrum.
 
+***
+
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>xNFTE in the NFTEarth UI</p></figcaption></figure>
 
 ### What is xNFTE and How Does it Work?
@@ -47,6 +49,8 @@ Important note: Users can still choose to add to the UniswapV3 pool for NFTE / W
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Balancer Liquidity / MC - Image Courtesy of DexScreener</p></figcaption></figure>
+
+***
 
 A user’s xNFTE balance is determined using the amount of NFTE LP (liquidity pool) tokens they have staked and the duration of the stake: staking more NFTE LP tokens for a longer duration will yield a larger xNFTE balance. This keeps voting power in the hands of users with the greatest commitment to the protocol’s long-term success.
 

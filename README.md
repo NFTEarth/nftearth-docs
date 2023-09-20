@@ -14,6 +14,8 @@ NFTEarth is a fun and enthusiastic NFT protocol that is focused on building a su
 
 With a community built on mostly on EVM scaling networks, the project has launched multiple NFT collections designed to serve as critical pieces of the NFTEarth ecosystem. The project began as a free mint NFT in December 2022, and from there has evolved into a lively and ambitious protocol aiming for bringing users from all over the Earth to web3. The team seeks to create web3 digital citizenship and a cultural movement with significant IP/brand potential through AI-infused NFTs - the SmartNFT - and a vibrant community of artists, builders, and storytellers. NFTEarth was born to promote blockchain adoption. In Spring of 2023, the protocol was vetted by Google and then selected for Google Cloud for Startups Web3 as a project to receive exclusive support from Google Cloud; and granted $200,000 in Cloud Credits to build out NFTEarth on GCP Cloud infrastructure.
 
+***
+
 **Information Available Here**
 
 This documentation covers all aspects of the NFTEarth Metaverse, including NFTEarth NFTs, Earthlings dFNTs, Earth Domains, the NFTE token, and the NFTEarth DAO. Please note, as the NFTEarth project evolves, so has the method to inform current and potential community members and stakeholders. Like many projects, we began with a single, fixed roadmap, having now moved towards a flexible and dynamic archive of information that the NFTEarth team can update in response to new developments and progress.

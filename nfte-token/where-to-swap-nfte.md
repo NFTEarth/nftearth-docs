@@ -21,6 +21,8 @@ description: >-
 8. Avalanche
 9. BNB Chain
 
+***
+
 ## NFTE Token Basics
 
 NFTE is the native utility token of the NFTEarth ecosystem. It is designed primarily to be used for staking, voting, and boosting rewards. It is designed in a way that its value increases over time. See [Broken link](broken-reference "mention") for NFTE token specifications.

@@ -13,6 +13,8 @@ Usage Guidelines
 * Do not stretch, compress, or add effects (like shadows or gradients) to the NFTEarth logo.
 * Do not change or edit the colors in the NFTEarth logo.
 
+***
+
 ## **NFTEarth Color Palette**
 
 ### Colors

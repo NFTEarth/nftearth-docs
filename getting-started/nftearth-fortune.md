@@ -18,6 +18,8 @@ The benefits of onchain gaming applications like Fortune include several aspects
 
 **NOTE**: All NFTs in a collection will be valued at the floor price of the collection; rarity is not accounted for.
 
+***
+
 ### Frequently Asked Questions (FAQs)[​](https://docs.looksrare.org/developers/yolo/yolo-overview#frequently-asked-questions-faqs) <a href="#frequently-asked-questions-faqs" id="frequently-asked-questions-faqs"></a>
 
 **1. How does the Fortune system handle participant deposits?**[**​**](https://docs.looksrare.org/developers/yolo/yolo-overview#1-how-does-the-yolo-system-handle-participant-deposits)

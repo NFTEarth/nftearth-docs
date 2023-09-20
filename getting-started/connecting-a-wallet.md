@@ -14,6 +14,8 @@ NFTEarth supports the following wallets:
 * [WalletConnect](https://walletconnect.com/)
 * [Ledger](https://www.ledger.com/)
 
+***
+
 Click on any of the above links to the corresponding wallet provider in order to learn more information about each wallet, and instructions on how to install them on your browser or device.&#x20;
 
 Once you have installed a wallet or already have one ready to go - it’s time to connect it to NFTEarth. Click "Connect Wallet" and follow the prompts.&#x20;
