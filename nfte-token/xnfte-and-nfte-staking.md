@@ -65,7 +65,7 @@ A user’s xNFTE balance is a reflection of their voting power in the protocol. 
 * Amount of NFTE LP tokens staked
 * Duration of staking period
 
-**Miscellaneous:**&#x20;
+### Miscellaneous:
 
 \
 Over time, the voting power of older stakes will be diluted since new stakes will have higher multipliers applied to their xNFTE balance. **The best way to maximize your voting power and xNFTE balance is therefore to stake NFTE LP tokens for the maximum 1 year staking period and simply extend your staking period on a regular basis.**
