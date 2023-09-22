@@ -8,6 +8,29 @@ description: "Introducing xNFTE: NFTEarth Becomes First NFT Protocol to Offer Re
 
 <figure><img src="../.gitbook/assets/xNFTE_Icon (1).png" alt=""><figcaption><p>xNFTE</p></figcaption></figure>
 
+### How xNFTE Works:
+
+xNFTE (Staked NFTE) is a vesting system based on [Curve's veCRV mechanism](https://curve.readthedocs.io/dao-vecrv.html) which locks a Gamma Strategies NFTE/WETH UniswapV3 Token (NFTE LP) for a maximum of 1 year. The xNFTE system is designed to promote long-term token-holder alignment and facilitate fair revenue sharing of protocol fees generated.
+
+By locking the Gamma NFTE LP token, holders are given xNFTE, entitling them to governance rights and protocol fee sharing. A user's xNFTE balance is directly proportional to the amount of NFTE LP locked and the duration of time left in the lock period. In short, if a user locks 1 NFTE LP for 1 year, they will receive the same amount of “vote power” strength as someone who locks 2 NFTE LP for only 1/2 year.
+
+Implications:
+
+* xNFTE is the governance token of NFTEarth, used in Snapshot voting to authorize changes to the DAO including the management (adding/removing) of incentive programs, new gauges and funding of service providers.
+* xNFTE holders will be entitled to all revenue sharing from NFTEarth. The handling and amount of protocol fees are subject to change based on NFTEarth Governance Process.&#x20;
+
+In the same breath, the token supply schedule for NFTE has been defined and is set permanently. A key takeaway for the new tokenomic schedule is the total supply of NFTE being capped at 100,000,000. There are never going to be more than 100,000,000 NFTE tokens - and so over time, each token will grow more valuable as the protocol continues to create useful and revenue generating products and services.
+
+#### [#](https://docs.balancer.fi/concepts/governance/veBAL/#how-is-vebal-different-from-vecrv)How is xNFTE different from veCRV and veBAL? <a href="#how-is-vebal-different-from-vecrv" id="how-is-vebal-different-from-vecrv"></a>
+
+There are a few modifications that set xNFTE apart:
+
+* Instead of locking pure NFTE, users obtain xNFTE by locking NFTE LP Gamma Tokens. This ensures that even if a large portion of NFTE tokens are locked, there is a sustainable form of deep liquidity onchain.
+* xNFTE's maximum locking period is 1 year, a decrease from veCRV's 4 year period (though the same as veBAL). The minimum locking period is 1 month (veBAL is 1 week). What we have observed is that the NFT ecosystem and DeFi moves extremely fast, and in the event governance decides to implement a new voting system, this shorter duration of lock compared to veCRV creates a much shorter, but still sufficiently long, waiting period to transition.
+
+### Motivation and Competitive Rationale for xNFTE:
+
+\
 Staked NFTE (xNFTE) is the value accrual and governance mechanism developed and deployed for the benefit of the long-term stakeholders in the NFTEarth protocol. The staking solution is a contract that lives onchain in the form governance token issued to users who stake NFTE LP tokens (obtained by depositing a UniswapV3 position on Gamma Strategies protocol) into the NFTEarth staking contract. xNFTE is received as a receipt token, much like veCRV and veBAL are received from Curve and Balancer staking programs when users stake into those contracts.
 
 xNFTE balances dictate both voting power in governance proposals and incentive direction on the NFTEarth Protocol and receive all rewards, protocol revenue, and future value accrual that is split with stakers and the DAO.
