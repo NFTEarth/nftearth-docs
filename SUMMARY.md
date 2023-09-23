@@ -40,3 +40,4 @@
 * [Telegram](https://t.me/nftearth\_community)
 * [GitHub](https://github.com/NFTEarth)
 * [Snapshot](https://snapshot.org/#/nftearthl2.eth)
+* [Analytics](https://dune.com/nftearth/nftearth-analytics)
