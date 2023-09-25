@@ -1,5 +1,5 @@
 ---
-description: "Introducing xNFTE: NFTEarth Becomes First NFT Protocol to Offer Real Yield From Staking and Revenue\_Sharing"
+description: "xNFTE: Real Yield From Staking and Revenue\_Sharing"
 ---
 
 # 🚦 xNFTE and NFTE Staking
@@ -12,7 +12,7 @@ description: "Introducing xNFTE: NFTEarth Becomes First NFT Protocol to Offer Re
 
 xNFTE (Staked NFTE) is a vesting system based on [Curve's veCRV mechanism](https://curve.readthedocs.io/dao-vecrv.html) which locks a Gamma Strategies NFTE/WETH UniswapV3 Token (NFTE LP) for a maximum of 1 year. The xNFTE system is designed to promote long-term token-holder alignment and facilitate fair revenue sharing of protocol fees generated.
 
-By locking the Gamma NFTE LP token, holders are given xNFTE, entitling them to governance rights and protocol fee sharing. A user's xNFTE balance is directly proportional to the amount of NFTE LP locked and the duration of time left in the lock period. In short, if a user locks 1 NFTE LP for 1 year, they will receive the same amount of “vote power” strength as someone who locks 2 NFTE LP for only 1/2 year.
+By locking the [Gamma NFTE LP](https://app.gamma.xyz/vault/uni/arbitrum/details/nfte-weth-10000-wide) token, holders are given xNFTE, entitling them to governance rights and protocol fee sharing. A user's xNFTE balance is directly proportional to the amount of NFTE LP locked and the duration of time left in the lock period. In short, if a user locks 1 NFTE LP for 1 year, they will receive the same amount of “vote power” strength as someone who locks 2 NFTE LP for only 1/2 year.
 
 Implications:
 
@@ -21,7 +21,7 @@ Implications:
 
 In the same breath, the token supply schedule for NFTE has been defined and is set permanently. A key takeaway for the new tokenomic schedule is the total supply of NFTE being capped at 100,000,000. There are never going to be more than 100,000,000 NFTE tokens - and so over time, each token will grow more valuable as the protocol continues to create useful and revenue generating products and services.
 
-#### [#](https://docs.balancer.fi/concepts/governance/veBAL/#how-is-vebal-different-from-vecrv)How is xNFTE different from veCRV and veBAL? <a href="#how-is-vebal-different-from-vecrv" id="how-is-vebal-different-from-vecrv"></a>
+### How is xNFTE different from veBAL and veCRV?
 
 There are a few modifications that set xNFTE apart:
 
@@ -43,17 +43,27 @@ Medium publication on xNFTE
 
 ### The 3 Contracts That Make xNFTE Work:
 
-**The 3 Contracts You Need To Understand to Grasp the xNFTE System:**
+**There are 3 Contracts you need to understand to clearly grasp the xNFTE system:**
 
-1. **Gamma Vault** (Tokenized NFTE / WETH LP Position) Contract Address: [0x82496243c0a1a39c5c6250bf0115c134ba76698c](https://arbiscan.io/address/0x82496243c0a1a39c5c6250bf0115c134ba76698c) on Arbitrum.
+1. **NFTE/WETH LP - Gamma Vault** [0x82496243c0a1a39c5c6250bf0115c134ba76698c](https://arbiscan.io/address/0x82496243c0a1a39c5c6250bf0115c134ba76698c) on Arbitrum.  This is a Gamma Vault that turns a UniswapV3 position into a fungible token that can be staked in the xNFTE contract. (Tokenized NFTE / WETH LP Position).
 2. **xNFTE** Contract Address — where you deposit your NFTE LP position obtained from Gamma Strategies: [0xE57bd15448C3b2D1dBAD598775DD2F36F93EBf90](https://arbiscan.io/address/0xe57bd15448c3b2d1dbad598775dd2f36f93ebf90) on Arbitrum. Once deposited, you will have an xNFTE balance.
-3. **FeeDistributor** — for xNFTE stakers to claim rewards - Contract Address: [0x9138a2e628f92a42397b3b600e86047ae49aca98](https://arbiscan.io/address/0x9138a2e628f92a42397b3b600e86047ae49aca98) on Arbitrum.
+3. **FeeDistributor** — the Revenue Sharing Vault where xNFTE stakers claim rewards from - Contract Address: [0x9138a2e628f92a42397b3b600e86047ae49aca98](https://arbiscan.io/address/0x9138a2e628f92a42397b3b600e86047ae49aca98) on Arbitrum.
 
-***
+### All Relevant Contracts:
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>xNFTE in the NFTEarth UI</p></figcaption></figure>
+| Name           | Function                                                                       | Arbitrum Address                                                                                                     |
+| -------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| NFTE/WETH LP   | Tokenized UniswapV3 LP Position - Staking Asset                                | [0x82496243c0a1a39c5c6250bf0115c134ba76698c](https://arbiscan.io/address/0x82496243c0a1a39c5c6250bf0115c134ba76698c) |
+| xNFTE          | xNFTE (Staked NFTE)                                                            | [0xE57bd15448C3b2D1dBAD598775DD2F36F93EBf90](https://arbiscan.io/address/0xE57bd15448C3b2D1dBAD598775DD2F36F93EBf90) |
+| FeeDistributor | Revenue Sharing Vault                                                          | [0x9138a2e628f92a42397b3b600e86047ae49aca98](https://arbiscan.io/address/0x9138a2e628f92a42397b3b600e86047ae49aca98) |
+| NFTE           | NFTE Token (on Arbitrum)                                                       | [0x51B902f19a56F0c8E409a34a215AD2673EDF3284](https://arbiscan.io/address/0x51B902f19a56F0c8E409a34a215AD2673EDF3284) |
+| WETH           | WETH Token (on Arbitrum)                                                       | [0x82aF49447D8a07e3bd95BD0d56f35241523fBab1](https://arbiscan.io/address/0x82af49447d8a07e3bd95bd0d56f35241523fbab1) |
+| UniswapV3 Pool | Uniswap NFTE/WETH Pool                                                         | [0x17eE09e7a2cc98b0B053B389A162fC86A67b9407](https://arbiscan.io/address/0x17ee09e7a2cc98b0b053b389a162fc86a67b9407) |
+| UniV3Proxy     | Utility For Simplifying Creating a Gamma NFTE LP Position (optional for users) | [0x82FcEB07a4D01051519663f6c1c919aF21C27845](https://arbiscan.io/address/0x82FcEB07a4D01051519663f6c1c919aF21C27845) |
 
-### What is xNFTE and How Does it Work?
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>xNFTE in the NFTEarth UI</p></figcaption></figure>
+
+### What is xNFTE in more detail and how do the mechanics work?
 
 For some context, it’s important to understand some of the most successful governance and value accrual tokenomic models that have been built in web3 up until now. Curve innovated with veCRV - pioneering the concept of locking up tokens, and it worked exceptionally well for them and kicked off a massive amount of protocols moving to a ve (vote-escrowed) model. Lock your CRV tokens and get veCRV, which earns you rewards and governance control. Balancer then innovated on what Curve built with veBAL, where instead of locking a single token, token holders lock a liquidity position (LP) consisting of BAL / WETH tokens — and they also changed the duration of max-time locking from veCRV down to 1 year. The change to an LP token as the locking token means that as more tokens get locked, \*liquidity increases\* which is a fundamentally innovative and massive competitive advantage for any protocol that implements it — and absolutely ideal for any protocol looking to bootstrap long-term liquidity. The results of this change speak for themselves. The BAL token is currently one of the single most liquid tokens in all of crypto, with its liquidity nearly equal to the market cap of the token. See the image below from DexScreener and check it out for yourself. With xNFTE, we aim to expand on this concept that Balancer implemented, with a couple of slight improvements. We will be using the leading decentralized exchange (DEX) by volume on Arbitrum — UniswapV3 — and additionally our staking contract is also deployed to Arbitrum layer2 as well, opposed to Ethereum Mainnet because of the lower costs of completing transactions on Arbitrum. This creates significantly more opportunities to attract new users interested in becoming part of the long-term vision of the protocol and taking part in protocol governance.
 
@@ -79,7 +89,7 @@ A user’s xNFTE balance is determined using the amount of NFTE LP (liquidity po
 
 Staked NFTE tokens cannot be redeemed from the contract until the end of the staking period. If a user claims their NFTE LP tokens at the end of the staking period, the associated xNFTE balance will be burned. Users can choose to extend the duration of their stake at any time.
 
-NFTEarth is implementing the contracts used by Stargate Finance with their staking mechanism [veSTG](https://arbiscan.io/address/0xfBd849E6007f9BC3CC2D6Eb159c045B8dc660268) implementation on Arbitrum One as the staking contract and their [FeeDistributor](https://arbiscan.io/address/0xaf667811a7edcd5b0066cd4ca0da51637db76d09) as the rewards distribution mechanism.&#x20;
+NFTEarth has implemented the same voting escrow and fee distribution contracts used by Stargate Finance with their staking mechanism [veSTG](https://arbiscan.io/address/0xfBd849E6007f9BC3CC2D6Eb159c045B8dc660268) deployed on Arbitrum One as the staking contract (xNFTE) and their [FeeDistributor](https://arbiscan.io/address/0xaf667811a7edcd5b0066cd4ca0da51637db76d09) as the rewards distribution mechanism (Fee Distributor).&#x20;
 
 ### Voting Power Calculation
 
@@ -91,4 +101,4 @@ A user’s xNFTE balance is a reflection of their voting power in the protocol. 
 ### Miscellaneous:
 
 \
-Over time, the voting power of older stakes will be diluted since new stakes will have higher multipliers applied to their xNFTE balance. **The best way to maximize your voting power and xNFTE balance is therefore to stake NFTE LP tokens for the maximum 1 year staking period and simply extend your staking period on a regular basis.**
+Over time, the voting power of older stakes will be diluted since new stakes will have higher multipliers applied to their xNFTE balance. **The best way to maximize your voting power and xNFTE balance is therefore to stake NFTE LP tokens for the maximum 1 year staking period and simply extend your staking period on a regular basis. It is important to claim your rewards once they are available.**
