@@ -6,7 +6,19 @@ coverY: 0
 
 # 🎨 NFT Collections by NFTEarth
 
-Earthlings
+### LowFeeNFT
+
+Earn the Galxe Badge: NFTEarth NFT Minter on Arbitrum
+
+As part of the relaunching of the Arbitrum Odyssey, the NFTEarth team has created an an NFT to celebrate Arbitrum and showcase the cost savings of minting NFTs on the layer2 network by deploying an OpenEdition ERC-721A NFT Contract that can be minted on Arbitrum, and the participants will earn a special badge on Galxe reflecting they completed the task. The Galxe badge NFT will only be claimable once the NFT has been minted on Arbitrum, and will be a form of onchain proof that the user has participated on the top L2 network to help kickstart NFT momentum.
+
+Mint `LowFeeNFT` on NFTEarth at this link: [Mint](https://lowfeenft.nftearth.exchange)
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>LowFeeNFT Collection - OpenEdition on Arbitrum Layer2 Network</p></figcaption></figure>
+
+
+
+### Earthlings
 
 Earthlings are a collection of 3,131 NFTs from NFTEarth, consisting of entirely unique NFTs, created using generative AI technology on the Arbitrum L2 network. Designed to be dynamic, they are all 100% unique in their creation having been minted using generative AI technology, and they evolve over time based on conditional relationships that either are met, or not met, which have an impact on the NFT.
 
