@@ -81,7 +81,7 @@ Important note: Users can still choose to add to the UniswapV3 pool for NFTE / W
 **In a single sentence, the more liquidity you provide and the longer time period you stake, the greater your rewards and governance power!**
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Balancer Liquidity / MC - Image Courtesy of DexScreener</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Balancer Liquidity / MC - Image Courtesy of DexScreener</p></figcaption></figure>
 
 ***
 
