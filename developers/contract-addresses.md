@@ -8,6 +8,13 @@ description: This page lists the NFTEarth contract addresses on each chain.
 
 <table data-full-width="false"><thead><tr><th align="center">Contract</th><th align="center">Type</th><th align="center">Arbitrum Address</th></tr></thead><tbody><tr><td align="center">NFTE</td><td align="center">Token</td><td align="center">0x51B902f19a56F0c8E409a34a215AD2673EDF3284</td></tr><tr><td align="center">xNFTE</td><td align="center">Staking</td><td align="center">0xE57bd15448C3b2D1dBAD598775DD2F36F93EBf90</td></tr><tr><td align="center">Gamma NFTE / WETH </td><td align="center">Gamma LP Vault</td><td align="center">0x82496243c0a1a39c5c6250bf0115c134ba76698c</td></tr><tr><td align="center">FeeDistributor</td><td align="center">xNFTE Rewards Vault Contract</td><td align="center">0x9138a2e628f92a42397b3b600e86047ae49aca98</td></tr><tr><td align="center">Uniswap</td><td align="center">Liquidity Pool</td><td align="center">0x17eE09e7a2cc98b0B053B389A162fC86A67b9407</td></tr><tr><td align="center">SushiSwap</td><td align="center">Liquidity Pool</td><td align="center">0xd2aaa8fc5c39dbe68344bc42d4513ea344e5d696</td></tr><tr><td align="center">Fortune</td><td align="center">Onchain Game</td><td align="center">0xb11ed4d3b3d8ace516ceae0a8d4764bbf2b08c50</td></tr><tr><td align="center">TransferManager</td><td align="center">Fortune Periphery Contract</td><td align="center">0xF502C99eBdFfD2F5fb92C162ea12d741b98402C2</td></tr><tr><td align="center">PriceOracle</td><td align="center">Fortune Periphery Contract</td><td align="center">0x896397f72Bd5C207Cab95740D48cA76ACf960B16</td></tr></tbody></table>
 
+## Arbitrum Nova
+
+|  Contract |      Type      |            Arbitrum Nova Address           |
+| :-------: | :------------: | :----------------------------------------: |
+|    NFTE   |      Token     | 0x90aEC282ed4CDcAab0934519DE08B56F1f2aB4d7 |
+| SushiSwap | Liquidity Pool | 0x6e2dd66D2bDc6F4e531A59d2B90Be6ECfe3D07f1 |
+
 ## Ethereum
 
 <table data-full-width="false"><thead><tr><th align="center">Contract</th><th align="center">Type</th><th align="center">Ethereum Address</th></tr></thead><tbody><tr><td align="center">NFTE</td><td align="center">Token</td><td align="center">0x8c223a82E07feCB49D602150d7C2B3A4c9630310</td></tr><tr><td align="center">Uniswap</td><td align="center">Liquidity Pool</td><td align="center">0x1ddadfa3103F0FD8a625fd93C0a808d6d8aF1B32</td></tr><tr><td align="center">SushiSwap</td><td align="center">Liquidity Pool</td><td align="center">0xc5e0a6a1fe4b128c342702ca96346f8846493924</td></tr><tr><td align="center">SmartNFT</td><td align="center">AI NFT Collection</td><td align="center">0xF7a821Aa22fC10635e934C7D99DB8f60343d9202</td></tr></tbody></table>
