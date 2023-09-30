@@ -4,11 +4,11 @@ description: >-
   live on Arbitrum layer2 scaling network.
 ---
 
-# 🎲 NFTEarth Fortune
+# 🎲 Fortune
 
 ### Introducing Fortune[​](https://docs.looksrare.org/developers/yolo/yolo-overview#introducing-yolo) <a href="#introducing-yolo" id="introducing-yolo"></a>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Fortune Game by NFTEarth</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Fortune Game by NFTEarth</p></figcaption></figure>
 
 The Fortune system is designed to operate a transparent, fair, and decentralized game directly onchain. It utilizes smart contracts to handle the process, ensuring trust and integrity and is deployed on leading Ethereum layer2 network [Arbitrum](https://arbitrum.io/). The Fortune system is structured around a series of 'rounds'. Each round represents a single iteration of the game, where participants can enter by making deposits (`ETH`/`ERC-721`/`ERC-20`), and winners are selected at the end.
 

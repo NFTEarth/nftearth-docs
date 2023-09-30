@@ -5,10 +5,12 @@
 * [📖 NFTΞarth Documentation](README.md)
 * [👛 Connecting A Wallet](getting-started/connecting-a-wallet.md)
 * [🎯 Roadmap](getting-started/roadmap.md)
-* [🎲 NFTEarth Fortune](getting-started/nftearth-fortune.md)
-* [🤖 SmartNFT](getting-started/smartnft.md)
-* [🌀 EarthChat](getting-started/earthchat.md)
-* [📛 Earth Domains](getting-started/earth-domains.md)
+* [💙 NFTEarth Products](getting-started/nftearth-products/README.md)
+  * [🎲 Fortune](getting-started/nftearth-products/fortune.md)
+  * [🎁 Raffle](getting-started/nftearth-products/raffle.md)
+  * [🌀 W3Chat](getting-started/nftearth-products/w3chat.md)
+  * [🤖 SmartNFT](getting-started/nftearth-products/smartnft.md)
+  * [📛 EarthDomains](getting-started/nftearth-products/earthdomains.md)
 * [🎨 NFT Collections by NFTEarth](getting-started/nft-collections-by-nftearth.md)
 
 ## NFTE TOKEN
@@ -23,9 +25,9 @@
 * [🎬 Brand Assets](resources/brand-assets.md)
 * [☎ Contact](resources/contact.md)
 * [🫂 Team](resources/team.md)
-* [⚠ Disclaimers](resources/disclaimers.md)
-* [⚠ Terms of Use](resources/terms-of-use.md)
-* [⚠ Privacy Policy](resources/privacy-policy.md)
+* [⚠ Disclaimers](resources/disclaimers/README.md)
+  * [⚠ Terms of Use](resources/disclaimers/terms-of-use.md)
+  * [⚠ Privacy Policy](resources/disclaimers/privacy-policy.md)
 
 ## DEVELOPERS
 
