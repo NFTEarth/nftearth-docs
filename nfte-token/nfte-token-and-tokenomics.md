@@ -1,16 +1,14 @@
 ---
 description: >-
-  NFTE is the native protocol token of the NFTEarth ecosystem and is currently
-  deployed to 9 chains.
+  NFTE Token and Tokenomics NFTE is the native protocol token of the NFTEarth
+  ecosystem and is currently deployed to 11 chains.
 ---
 
 # 🌏 NFTE Token and Tokenomics
 
-### NFTE Tokenomics
+NFTE Tokenomics
 
-NFTE is the native utility token of the NFTEarth ecosystem. It is designed primarily to be used for staking, voting, and overall governance of the protocol.
-
-NFTE is an ERC-20 token that leverages the LayerZero Omnichain Fungible Token (OFT) extension, which enables easy, fast, and secure bridging of NFTE cross-chain. NFTE is currently live on 9 chains - contract information can be found [here](../developers/contract-addresses.md).
+NFTE is the native utility token of the NFTEarth ecosystem. It is designed primarily to be used for staking, voting, and overall governance of the protocol.NFTE is an ERC-20 token that leverages the LayerZero Omnichain Fungible Token (OFT) extension, which enables easy, fast, and secure bridging of NFTE cross-chain. NFTE is currently live on 11 chains - contract information can be found [here](https://app.gitbook.com/o/n63EKvmEjdWy0MEBdcJF/s/usGHKGiJOrYZZ48ojzaD/developers/contract-addresses).
 
 ***
 

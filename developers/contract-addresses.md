@@ -27,6 +27,12 @@ description: This page lists the NFTEarth contract addresses on each chain.
 
 <table data-full-width="false"><thead><tr><th align="center">Contract</th><th align="center">Type</th><th align="center">Optimism Address</th></tr></thead><tbody><tr><td align="center">NFTE</td><td align="center">Token</td><td align="center">0x8637725aDa78db0674a679CeA2A5e0A0869EF4A1</td></tr><tr><td align="center">Uniswap</td><td align="center">Liquidity Pool</td><td align="center">0xbD392a8c1c99EF05e7733242e60E068a7fF5D1C4</td></tr></tbody></table>
 
+## Polygon zkEVM
+
+| Contract |  Type |            Polygon zkEVM Address           |
+| :------: | :---: | :----------------------------------------: |
+|   NFTE   | Token | 0xf1B8982eC774AE84e936Bd63f372280bd534E797 |
+
 ## Polygon
 
 <table data-full-width="false"><thead><tr><th align="center">Contract</th><th align="center">Type</th><th align="center">Polygon Address</th></tr></thead><tbody><tr><td align="center">NFTE</td><td align="center">Token</td><td align="center">0x492Fa53b88614923937B7197C87E0F7F8EEb7B20</td></tr><tr><td align="center">Uniswap</td><td align="center">Liquidity Pool</td><td align="center">0x12348e63C198c34309770636CEbEfC87Aa92FAc5</td></tr></tbody></table>
