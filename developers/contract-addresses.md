@@ -15,6 +15,14 @@ description: This page lists the NFTEarth contract addresses on each chain.
 |    NFTE   |      Token     | 0x90aEC282ed4CDcAab0934519DE08B56F1f2aB4d7 |
 | SushiSwap | Liquidity Pool | 0x6e2dd66D2bDc6F4e531A59d2B90Be6ECfe3D07f1 |
 
+## Scroll
+
+| Contract |  Type |               Scroll Address               |
+| :------: | :---: | :----------------------------------------: |
+|   NFTE   | Token | 0x90aEC282ed4CDcAab0934519DE08B56F1f2aB4d7 |
+
+
+
 ## Ethereum
 
 <table data-full-width="false"><thead><tr><th align="center">Contract</th><th align="center">Type</th><th align="center">Ethereum Address</th></tr></thead><tbody><tr><td align="center">NFTE</td><td align="center">Token</td><td align="center">0x8c223a82E07feCB49D602150d7C2B3A4c9630310</td></tr><tr><td align="center">Uniswap</td><td align="center">Liquidity Pool</td><td align="center">0x1ddadfa3103F0FD8a625fd93C0a808d6d8aF1B32</td></tr><tr><td align="center">SmartNFT</td><td align="center">NFT Collection</td><td align="center">0xF7a821Aa22fC10635e934C7D99DB8f60343d9202</td></tr></tbody></table>
