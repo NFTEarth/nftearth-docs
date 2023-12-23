@@ -28,15 +28,12 @@ NFTEarthOFT (Omnichain Fungible Token)
 * [x] Add $ARB as payment currency on NFT marketplace
 * [x] Deploy NFTE Staking Contract Deployment
 * [x] Staking UI
-* [x] Epoch DAO Accounting Reports for Revenue Sharing
-* [ ] NFT Utility for Earthling + SmartNFT Avatars
-* [ ] Additional Exchange Listings/Collaborations (DEX or CEX)
-* [ ] Applications for Grants to secure DAO runway
+* [x] Add $OP as payment currency on NFT marketplace
+* [x] Add $MATIC as payment currency on NFT marketplace
 * [x] Arbitrum Gitcoin Grants Round Participant
 * [ ] Establish new strategic partnership with AMM liquidity protocol.
 * [ ] Build and deploy decentralized web3 SocialFi messaging application
 * [ ] Build and deploy decentralized web3 name service to compete with ENS and UD - full integration with chat application - Earth Domains.
-* [ ] Apply to Gitcoin Grants formal quarterly round led by Gitcoin
 * [ ] Apply to Ethereum Foundation for a grant to build AI into NFT use-cases
 
 **2024**
@@ -44,4 +41,5 @@ NFTEarthOFT (Omnichain Fungible Token)
 * [ ] Establish over $1M in onchain liquidity via innovative LP staking mechanism to enable large buyers and institutions to get involved in NFTE ecosystem
 * [ ] Complete CEX listing on Tier A exchange (Binance, Coinbase, Gate.io, Huobi, KuCoin) for enhanced liquidity for all users
 * [ ] Complete enhancements to PWA and deploy native mobile applications for iOS and Android
+* [ ] Deploy Omnichain NFT exchange that becomes the first mirror NFT application to allow users to trade their favorite Mainnet NFTs on an L2 for a fraction of the cost, while maintaining the same great UX they have grown to enjoy.&#x20;
 

@@ -11,17 +11,10 @@ description: >-
 
 **DEXs**
 
-1. [Uniswap (Arbitrum)](https://app.uniswap.org/swap?outputCurrency=0x51b902f19a56f0c8e409a34a215ad2673edf3284\&chain=arbitrum)
-2. Uniswap (Ethereum)
-3. Uniswap (Polygon)
+1. Uniswap (Optimism)
+2. Uniswap (Polygon)
+3. Uniswap (Arbitrum)
 4. Uniswap (Ethereum)
-5. Uniswap (Optimism)
-6. Linea
-7. Mantle
-8. Avalanche
-9. BNB Chain
-10. Arbitrum Nova
-11. Polygon zkEVM
 
 ***
 

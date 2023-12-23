@@ -10,7 +10,6 @@
   * [🎁 Raffle](getting-started/nftearth-products/raffle.md)
   * [🌀 W3Chat](getting-started/nftearth-products/w3chat.md)
   * [🤖 SmartNFT](getting-started/nftearth-products/smartnft.md)
-  * [📛 EarthDomains](getting-started/nftearth-products/earthdomains.md)
 * [🎨 NFT Collections by NFTEarth](getting-started/nft-collections-by-nftearth.md)
 
 ## NFTE TOKEN
@@ -18,7 +17,6 @@
 * [🌏 NFTE Token and Tokenomics](nfte-token/nfte-token-and-tokenomics.md)
 * [🚦 xNFTE and NFTE Staking](nfte-token/xnfte-and-nfte-staking.md)
 * [📈 Where to Swap NFTE](nfte-token/where-to-swap-nfte.md)
-* [🔥 NFTE Burn Mechanism](nfte-token/nfte-burn-mechanism.md)
 
 ## RESOURCES
 
@@ -42,4 +40,3 @@
 * [Telegram](https://t.me/nftearth\_community)
 * [GitHub](https://github.com/NFTEarth)
 * [Snapshot](https://snapshot.org/#/nftearthl2.eth)
-* [Analytics](https://dune.com/nftearth/nftearth-analytics)
