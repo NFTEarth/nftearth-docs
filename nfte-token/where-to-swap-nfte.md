@@ -11,10 +11,8 @@ description: >-
 
 **DEXs**
 
-1. Uniswap (Optimism)
-2. Uniswap (Polygon)
-3. Uniswap (Arbitrum)
-4. Uniswap (Ethereum)
+1. SushiSwap&#x20;
+2. Uniswap
 
 ***
 
