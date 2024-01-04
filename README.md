@@ -36,8 +36,8 @@ The increasing number of applications and users on Ethereum are responsible for 
 
 Follow our handy guides to get started using NFTEarth as quickly as possible:
 
-{% content-ref url="getting-started/connecting-a-wallet.md" %}
-[connecting-a-wallet.md](getting-started/connecting-a-wallet.md)
+{% content-ref url="getting-started/connecting-your-wallet.md" %}
+[connecting-your-wallet.md](getting-started/connecting-your-wallet.md)
 {% endcontent-ref %}
 
 If you're new to NFTs and DeFi - don't fret! We make it easy to get started. The first thing you need is a digital wallet, also sometimes called a cryptocurrency wallet. This quick guide will help you install (if you don't have one already) and get connected to the NFTEarth dApp.

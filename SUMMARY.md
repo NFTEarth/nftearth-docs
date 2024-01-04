@@ -3,7 +3,7 @@
 ## GETTING STARTED
 
 * [📖 NFTΞarth Documentation](README.md)
-* [👛 Connecting A Wallet](getting-started/connecting-a-wallet.md)
+* [👛 Connecting Your Wallet](getting-started/connecting-your-wallet.md)
 * [🎯 Roadmap](getting-started/roadmap.md)
 * [💙 NFTEarth Products](getting-started/nftearth-products/README.md)
   * [🎲 Fortune](getting-started/nftearth-products/fortune.md)
