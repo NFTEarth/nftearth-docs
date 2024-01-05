@@ -6,6 +6,7 @@
 * [👛 Connecting Your Wallet](getting-started/connecting-your-wallet.md)
 * [🎯 Roadmap](getting-started/roadmap.md)
 * [💙 NFTEarth Products](getting-started/nftearth-products/README.md)
+  * [🎟 NFTix](getting-started/nftearth-products/nftix.md)
   * [🎲 Fortune](getting-started/nftearth-products/fortune.md)
   * [🎁 Raffle](getting-started/nftearth-products/raffle.md)
   * [🌀 W3Chat](getting-started/nftearth-products/w3chat.md)

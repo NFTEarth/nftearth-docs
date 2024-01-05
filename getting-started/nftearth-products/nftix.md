@@ -1,0 +1,3 @@
+# 🎟 NFTix
+
+## Tickets Onchain
