@@ -32,3 +32,5 @@ Usage Guidelines
 
 
 <figure><img src="../.gitbook/assets/0xc2106ca72996e49bBADcB836eeC52B765977fd20 copy 2.svg" alt=""><figcaption><p>NFTE Icon .svg</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/NFTEarth_Into_Orbit.png" alt=""><figcaption><p>NFTEarth Into Orbit</p></figcaption></figure>
