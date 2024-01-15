@@ -31,15 +31,17 @@ NFTEarthOFT (Omnichain Fungible Token)
 * [x] Add $OP as payment currency on NFT marketplace
 * [x] Add $MATIC as payment currency on NFT marketplace
 * [x] Arbitrum Gitcoin Grants Round Participant
-* [ ] Establish new strategic partnership with AMM liquidity protocol.
+* [x] Establish new strategic partnership with AMM liquidity protocol.
 * [ ] Build and deploy decentralized web3 SocialFi messaging application
 * [ ] Build and deploy decentralized web3 name service to compete with ENS and UD - full integration with chat application - Earth Domains.
-* [ ] Apply to Ethereum Foundation for a grant to build AI into NFT use-cases
+* [x] Apply to Ethereum Foundation for a grant to build AI into NFT use-cases
 
 **2024**
 
-* [ ] Establish over $1M in onchain liquidity via innovative LP staking mechanism to enable large buyers and institutions to get involved in NFTE ecosystem
+* [ ] Establish over $100,000 in onchain liquidity via innovative LP staking mechanism to enable large buyers and institutions to get involved in NFTE ecosystem
+* [x] Complete applications for VC partnership
 * [ ] Complete CEX listing on Tier A exchange (Binance, Coinbase, Gate.io, Huobi, KuCoin) for enhanced liquidity for all users
 * [ ] Complete enhancements to PWA and deploy native mobile applications for iOS and Android
 * [ ] Deploy Omnichain NFT exchange that becomes the first mirror NFT application to allow users to trade their favorite Mainnet NFTs on an L2 for a fraction of the cost, while maintaining the same great UX they have grown to enjoy.&#x20;
+* [ ] Deploy NFTTix onchain ticketing platform
 

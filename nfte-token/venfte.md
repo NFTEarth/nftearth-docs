@@ -16,7 +16,7 @@ By locking the SushiSwap NFTE LP token, holders are given veNFTE as a receipt to
 * veNFTE holders will be entitled to all revenue sharing from NFTEarth. The handling and amount of protocol fees are subject to change based on NFTEarth Governance Process.&#x20;
 
 {% hint style="info" %}
-**In the same breath, the token supply schedule for NFTE has been defined and is set permanently. A key takeaway for the new tokenomic schedule is the total supply of NFTE being capped at 100,000,000. There are never going to be more than 100,000,000 NFTE tokens - and so over time, each token will grow more valuable as the protocol continues to create useful and revenue generating products and services.**
+**In the same breath, the token supply schedule for NFTE has been defined and is set with a new tokenomic schedule of the total supply of NFTE being capped at 1,000,000,000. There are never going to be more than 1,000,000,000 NFTE tokens - and so over time, each token will grow more valuable as the protocol continues to create useful and revenue generating products and services.**
 {% endhint %}
 
 ## How is veNFTE different from veBAL and veCRV?
@@ -51,7 +51,7 @@ First off, the trend towards this type of governance staking mechanism is clear.
 **In a single sentence, the more liquidity you provide and the longer time period you stake, the greater your rewards and governance power!**
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Balancer Liquidity / MC - Image Courtesy of DexScreener</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Balancer Liquidity / MC - Image Courtesy of DexScreener</p></figcaption></figure>
 
 ***
 

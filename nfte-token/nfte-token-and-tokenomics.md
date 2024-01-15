@@ -20,9 +20,9 @@ CoinMarketCap: [https://coinmarketcap.com/currencies/nftearth/](https://coinmark
 
 ## Tokenomics
 
-| Total and Maximum Supply of NFTE   | 100,000,000 |
-| ---------------------------------- | ----------- |
-| Current Circulating Supply of NFTE | 100,000,000 |
+| Total and Maximum Supply of NFTE   | 1,000,000,000 |
+| ---------------------------------- | ------------- |
+| Current Circulating Supply of NFTE | 500,000,000   |
 
 ## Token Allocation
 
@@ -43,9 +43,4 @@ CoinMarketCap: [https://coinmarketcap.com/currencies/nftearth/](https://coinmark
 
 ## **What is the total supply / circulating supply / global supply?**&#x20;
 
-* 100,000,000 (100 Million) NFTE tokens. The max supply and total supply of tokens have all been minted and in circulation, spread across the networks the protocol has deployed the token to.
-
-## **How can users quickly confirm NFTE tokenomic details using a block explorer?**
-
-* Being that the NFTE token is an Omnichain token (OFT standard by LayerZero) - this can sometimes be a challenge for web3 data providers to stay current with in real-time, as the OFT standard is still a new and rapidly growing trend pioneered by LayerZero - the interoperability team that just announced a major partnership with Google Cloud. Until it becomes the norm for protocols to issue Omnichain tokens, an easy way to view the supply of NFTE on any chain in real-time is to view the token supply on each block explorer (such as [Arbiscan](https://arbiscan.io/token/0x51b902f19a56f0c8e409a34a215ad2673edf3284) - Arbitrum's main block explorer) to see what the current amount of tokens is. At any given moment in time, the total global max supply will always total - when summed across chains, to equal precisely 100,000,000 across all chains.&#x20;
-* See below screenshot for an example: the largest amount of tokens are on Arbitrum in the screenshot, accounting for \~74% of the token supply at the time of the image. This will fluctuate based on how users choose to move their tokens cross-chain via the NFTEarth Bridge (built into the UI and powered by LayerZero) - or by users bridging their tokens via direct smart contract calls or using a block explorer directly.
+* 1,000,000,000 (100 Billion) NFTE tokens. The max supply and total supply of tokens have all been minted, spread across the networks the protocol has deployed the token to.

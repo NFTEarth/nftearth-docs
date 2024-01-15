@@ -26,6 +26,10 @@ You are welcome to read this entire documentation from start to finish, or jump 
 
 NFTEarth is expanding the NFT ecosystem in more ways than one. Having introduced several new concepts to the NFT space, such as Chainlink integrated onchain gaming on Layer2 network Arbitrum, to AI powered NFTs, the team intends to continue shipping useful and novel NFT products. The DAO is using its treasury to invest and partner with high-impact protocols and ecosystem partners.
 
+
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>NFTEarth dApp home page</p></figcaption></figure>
+
 {% hint style="info" %}
 Why Layer2? Lower costs enable the potential for much greater web3 adoption.
 {% endhint %}
