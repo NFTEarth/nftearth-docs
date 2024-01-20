@@ -6,11 +6,11 @@ description: This page lists the NFTEarth contract addresses on each chain.
 
 ## Polygon
 
-<table data-full-width="false"><thead><tr><th align="center">Contract</th><th align="center">Type</th><th align="center">Polygon Address</th></tr></thead><tbody><tr><td align="center">NFTE</td><td align="center">Token</td><td align="center"><a href="https://polygonscan.com/address/0x492Fa53b88614923937B7197C87E0F7F8EEb7B20">0x492Fa53b88614923937B7197C87E0F7F8EEb7B20</a></td></tr><tr><td align="center">SushiSwap</td><td align="center">Liquidity Pool</td><td align="center"><a href="https://polygonscan.com/address/0x4512cb25263049015ad67f8dcfc7e7d18ae5fcc2">0x4512cB25263049015Ad67f8DCFc7E7D18AE5fcC2</a></td></tr><tr><td align="center">Uniswap</td><td align="center">Liquidity Pool</td><td align="center"><a href="https://polygonscan.com/address/0x12348e63c198c34309770636cebefc87aa92fac5">0x12348e63C198c34309770636CEbEfC87Aa92FAc5</a></td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th align="center">Contract</th><th align="center">Type</th><th align="center">Polygon Address</th></tr></thead><tbody><tr><td align="center">NFTE</td><td align="center">Token</td><td align="center"><a href="https://polygonscan.com/address/0x492Fa53b88614923937B7197C87E0F7F8EEb7B20">0x492Fa53b88614923937B7197C87E0F7F8EEb7B20</a></td></tr><tr><td align="center">SushiSwap</td><td align="center">Liquidity Pool</td><td align="center"><a href="https://polygonscan.com/address/0x4512cb25263049015ad67f8dcfc7e7d18ae5fcc2">0x4512cB25263049015Ad67f8DCFc7E7D18AE5fcC2</a></td></tr></tbody></table>
 
 ## Base
 
-<table data-full-width="false"><thead><tr><th align="center">Contract</th><th align="center">Type</th><th align="center">Base Address</th></tr></thead><tbody><tr><td align="center">NFTE</td><td align="center">Token</td><td align="center"><a href="https://basescan.org/address/0xc2106ca72996e49bbadcb836eec52b765977fd20">0xc2106ca72996e49bBADcB836eeC52B765977fd20</a></td></tr><tr><td align="center">NFTE LP (SushiSwap)</td><td align="center">Liquidity Pool</td><td align="center"><a href="https://basescan.org/address/0xd00cd4363bcf7dc19e84fdb836ce28d24f00716c">0xd00CD4363bCF7DC19E84fDB836ce28D24F00716c</a></td></tr><tr><td align="center">SushiSwapV3</td><td align="center">Liquidity Pool</td><td align="center"><a href="https://basescan.org/address/0xd4c749ab52232f376019a37cc9bc06d086404944#code">0xd4c749ab52232f376019a37cc9bc06d086404944</a></td></tr><tr><td align="center">Uniswap</td><td align="center">Liquidity Pool</td><td align="center"><a href="https://basescan.org/address/0x23976cdde5df43b66d86444b78a859c417a2ef21#code">0x23976CdDe5dF43b66D86444b78a859C417a2eF21</a></td></tr><tr><td align="center">veNFTE</td><td align="center">Staking</td><td align="center"><a href="https://basescan.org/address/0xc526c83849fb4424e4563a3b609a4ebf916cf6d0">0xc526C83849Fb4424e4563A3b609a4eBf916cf6d0</a></td></tr><tr><td align="center">Fee Distributor</td><td align="center">Revenue Sharing Vault</td><td align="center"><a href="https://basescan.org/address/0x99032fd0727ded2a579dcb447e85359dde9223b6">0x99032fD0727dEd2a579dcB447e85359ddE9223B6</a></td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th align="center">Contract</th><th align="center">Type</th><th align="center">Base Address</th></tr></thead><tbody><tr><td align="center">NFTE</td><td align="center">Token</td><td align="center"><a href="https://basescan.org/address/0xc2106ca72996e49bbadcb836eec52b765977fd20">0xc2106ca72996e49bBADcB836eeC52B765977fd20</a></td></tr><tr><td align="center">NFTE LP (SushiSwap)</td><td align="center">Liquidity Pool</td><td align="center"><a href="https://basescan.org/address/0xd00cd4363bcf7dc19e84fdb836ce28d24f00716c">0xd00CD4363bCF7DC19E84fDB836ce28D24F00716c</a></td></tr><tr><td align="center">SushiSwapV3</td><td align="center">Liquidity Pool</td><td align="center"><a href="https://basescan.org/address/0xd4c749ab52232f376019a37cc9bc06d086404944#code">0xd4c749ab52232f376019a37cc9bc06d086404944</a></td></tr><tr><td align="center">veNFTE</td><td align="center">Staking</td><td align="center"><a href="https://basescan.org/address/0xc526c83849fb4424e4563a3b609a4ebf916cf6d0">0xc526C83849Fb4424e4563A3b609a4eBf916cf6d0</a></td></tr><tr><td align="center">Fee Distributor</td><td align="center">Revenue Sharing Vault</td><td align="center"><a href="https://basescan.org/address/0x99032fd0727ded2a579dcb447e85359dde9223b6">0x99032fD0727dEd2a579dcB447e85359ddE9223B6</a></td></tr></tbody></table>
 
 ## OP Mainnet
 
@@ -24,6 +24,12 @@ description: This page lists the NFTEarth contract addresses on each chain.
 
 <table data-full-width="false"><thead><tr><th align="center">Contract</th><th align="center">Type</th><th align="center">Ethereum Address</th></tr></thead><tbody><tr><td align="center">NFTE</td><td align="center">Token</td><td align="center">0x8c223a82E07feCB49D602150d7C2B3A4c9630310</td></tr><tr><td align="center">Uniswap</td><td align="center">Liquidity Pool</td><td align="center">0x1ddadfa3103F0FD8a625fd93C0a808d6d8aF1B32</td></tr><tr><td align="center">SmartNFT</td><td align="center">NFT Collection</td><td align="center">0xF7a821Aa22fC10635e934C7D99DB8f60343d9202</td></tr></tbody></table>
 
+## Polygon zkEVM
+
+| Contract |  Type |            Polygon zkEVM Address           |
+| :------: | :---: | :----------------------------------------: |
+|   NFTE   | Token | 0xf1B8982eC774AE84e936Bd63f372280bd534E797 |
+
 ## Arbitrum Nova
 
 | Contract |  Type |            Arbitrum Nova Address           |
@@ -35,14 +41,6 @@ description: This page lists the NFTEarth contract addresses on each chain.
 | Contract |  Type |               Scroll Address               |
 | :------: | :---: | :----------------------------------------: |
 |   NFTE   | Token | 0x90aEC282ed4CDcAab0934519DE08B56F1f2aB4d7 |
-
-
-
-## Polygon zkEVM
-
-| Contract |  Type |            Polygon zkEVM Address           |
-| :------: | :---: | :----------------------------------------: |
-|   NFTE   | Token | 0xf1B8982eC774AE84e936Bd63f372280bd534E797 |
 
 ## Avalanche
 
@@ -71,5 +69,3 @@ description: This page lists the NFTEarth contract addresses on each chain.
 | Contract |  Type |               Fantom Address               |
 | :------: | :---: | :----------------------------------------: |
 |   NFTE   | Token | 0x90aEC282ed4CDcAab0934519DE08B56F1f2aB4d7 |
-|          |       |                                            |
-|          |       |                                            |
