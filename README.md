@@ -10,7 +10,7 @@ coverY: 0
 
 ## About NFTEarth
 
-NFTEarth is an enthusiastic NFT protocol that is focused on building a suite of non-fungible products in the realms of AI, Gaming, NFTFi, as well as providing full NFT marketplace functionality on blockchain scaling networks. The primary focus has been Layer2 Ethereum scaling networks such as Polygon, but the primary vision of the protocol is to expand access to NFTs to as many people across the Earth as possible.&#x20;
+NFTEarth is an enthusiastic NFT protocol that is focused on building a suite of non-fungible products in the realms of AI, Gaming, NFTFi, as well as providing full NFT exchange functionality on blockchain scaling networks. The primary focus has been Layer2 Ethereum scaling networks such as Polygon, but the primary vision of the protocol is to expand access to NFTs to as many people across the Earth as possible.&#x20;
 
 With a community built on mostly on EVM scaling networks, the project has launched multiple NFT collections designed to serve as critical pieces of the NFTEarth ecosystem. The project began as a free mint NFT in December 2022, and from there has evolved into a lively and ambitious protocol aiming for bringing users from all over the Earth to web3. The team seeks to create web3 digital citizenship and a cultural movement with significant IP/brand potential through AI-infused NFTs - the SmartNFT - and a vibrant community of artists, builders, and storytellers. NFTEarth was born to promote blockchain adoption. In Spring of 2023, the protocol was accepted into the Google Cloud for Startups Web3 program as a project to receive exclusive support from Google Cloud; and granted $200,000 in Cloud Credits to build out NFTEarth on GCP's cloud infrastructure.
 

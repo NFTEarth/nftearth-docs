@@ -12,6 +12,9 @@ description: >-
 
 1. SushiSwap&#x20;
 2. Uniswap
+3. QuickSwap
+
+LlamaSwap - a Meta DEX aggregator is typically an excellent place to swap tokens. The link to buy NFTE on Polygon PoS on LlamaSwap is [here](https://swap.defillama.com/?chain=polygon\&from=0x0000000000000000000000000000000000000000\&to=0x492fa53b88614923937b7197c87e0f7f8eeb7b20).
 
 ***
 
@@ -19,4 +22,6 @@ description: >-
 
 NFTE is the native utility token of the NFTEarth ecosystem. It is designed primarily to be used for staking, voting, and boosting rewards. It is designed in a way that its value increases over time. See [Broken link](broken-reference "mention") for NFTE token specifications.
 
-NFTE is an ERC-20 token that incorporates [LayerZero’s](https://layerzero.network/) Omnichain Fungible Token (OFT) extension to enable seamless cross-chain interoperability. By leveraging this innovative token and cross-chain messaging architecture, the protocol has enabled a new era of interoperability across chains for the NFT ecosystem. Being natively Omnichain provides several large benefits for NFTEarth users and stakeholders - such as easy bridging of NFTE between chains, while simultaneously leading to increased security when compared with the more common bridging methods, which are liquidity based and thus pose greater risks to the protocol. NFTE is currently live on 14 chains. Every bridging transaction completed in the NFTEarth in-app bridge - or via block explorer or direct contract call, is a LayerZero transaction. Once you have initiated a Tx on the NFTEarth Bridge - you can copy the transaction hash from each relevant transaction and paste it into [LayerZero Scan](https://layerzeroscan.com/) to view it from the LayerZero Team's custom cross-chain transaction explorer.&#x20;
+NFTE is an ERC-20 token that incorporates [LayerZero’s](https://layerzero.network/) Omnichain Fungible Token (OFT) extension to enable seamless cross-chain interoperability. By leveraging this innovative token and cross-chain messaging architecture, the protocol has enabled a new era of interoperability across chains for the NFT ecosystem. Being natively Omnichain provides several large benefits for NFTEarth users and stakeholders - such as easy bridging of NFTE between chains, while simultaneously leading to increased security when compared with the more common bridging methods, which are liquidity based and thus pose greater risks to the protocol. NFTE is currently live on 14 chains. Every bridging transaction completed in the NFTEarth in-app bridge - or via block explorer or direct contract call, is a LayerZero transaction. \
+\
+Once you have initiated a Tx on the NFTEarth Bridge - you can copy the transaction hash from each relevant transaction and paste it into [LayerZero Scan](https://layerzeroscan.com/) to view it from the LayerZero Team's custom cross-chain transaction explorer.&#x20;
