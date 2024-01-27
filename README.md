@@ -10,25 +10,21 @@ coverY: 0
 
 ## About NFTEarth
 
-NFTEarth is a fun and enthusiastic NFT protocol that is focused on building a suite of non-fungible products in the realms of AI, Gaming, NFTFi, as well as providing full NFT marketplace functionality on blockchain scaling networks. The primary focus has been Layer2 Ethereum scaling networks such as Arbitrum, but the primary vision of the protocol is to expand access to NFTs to as many people across the Earth as possible.&#x20;
+NFTEarth is an enthusiastic NFT protocol that is focused on building a suite of non-fungible products in the realms of AI, Gaming, NFTFi, as well as providing full NFT marketplace functionality on blockchain scaling networks. The primary focus has been Layer2 Ethereum scaling networks such as Polygon, but the primary vision of the protocol is to expand access to NFTs to as many people across the Earth as possible.&#x20;
 
-With a community built on mostly on EVM scaling networks, the project has launched multiple NFT collections designed to serve as critical pieces of the NFTEarth ecosystem. The project began as a free mint NFT in December 2022, and from there has evolved into a lively and ambitious protocol aiming for bringing users from all over the Earth to web3. The team seeks to create web3 digital citizenship and a cultural movement with significant IP/brand potential through AI-infused NFTs - the SmartNFT - and a vibrant community of artists, builders, and storytellers. NFTEarth was born to promote blockchain adoption. In Spring of 2023, the protocol was vetted by Google and then selected for Google Cloud for Startups Web3 as a project to receive exclusive support from Google Cloud; and granted $200,000 in Cloud Credits to build out NFTEarth on GCP Cloud infrastructure.
+With a community built on mostly on EVM scaling networks, the project has launched multiple NFT collections designed to serve as critical pieces of the NFTEarth ecosystem. The project began as a free mint NFT in December 2022, and from there has evolved into a lively and ambitious protocol aiming for bringing users from all over the Earth to web3. The team seeks to create web3 digital citizenship and a cultural movement with significant IP/brand potential through AI-infused NFTs - the SmartNFT - and a vibrant community of artists, builders, and storytellers. NFTEarth was born to promote blockchain adoption. In Spring of 2023, the protocol was accepted into the Google Cloud for Startups Web3 program as a project to receive exclusive support from Google Cloud; and granted $200,000 in Cloud Credits to build out NFTEarth on GCP's cloud infrastructure.
 
 ***
 
 **Information Available Here**
 
-This documentation covers all aspects of the NFTEarth Metaverse, including NFTEarth NFTs, Earthlings dFNTs, Earth Domains, the NFTE token, and the NFTEarth DAO. Please note, as the NFTEarth project evolves, so has the method to inform current and potential community members and stakeholders. Like many projects, we began with a single, fixed roadmap, having now moved towards a flexible and dynamic archive of information that the NFTEarth team can update in response to new developments and progress.
+This documentation covers all aspects of the NFTEarth universe, including NFTEarth NFTs, project dFNTs, the NFTE token, and the NFTEarth DAO. Please note, as the NFTEarth project evolves, so has the method to inform current and potential community members and stakeholders. Like many projects, we began with a single, fixed roadmap, and have now moved towards maintaining this documentation to serve as a flexible and dynamic archive of information that the NFTEarth team can update in response to new developments and progress.
 
 You are welcome to read this entire documentation from start to finish, or jump around using the navigation panel to skip to a specific section you are most curious about.
 
 #### Building the leading blockchain NFT protocol <a href="#building-the-leading-ethereum-l2-dao" id="building-the-leading-ethereum-l2-dao"></a>
 
 NFTEarth is expanding the NFT ecosystem in more ways than one. Having introduced several new concepts to the NFT space, such as Chainlink integrated onchain gaming on Layer2 network Arbitrum, to AI powered NFTs, the team intends to continue shipping useful and novel NFT products. The DAO is using its treasury to invest and partner with high-impact protocols and ecosystem partners.
-
-
-
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>NFTEarth dApp home page</p></figcaption></figure>
 
 {% hint style="info" %}
 Why Layer2? Lower costs enable the potential for much greater web3 adoption.

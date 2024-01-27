@@ -1,5 +1,5 @@
 # 👯 DAO Multsigs
 
-## Multisig Safe Addresses and Respective Chain:
+## Multisig Address and Respective Chain:
 
 <table data-full-width="true"><thead><tr><th align="center">Chain</th><th align="center">Address</th></tr></thead><tbody><tr><td align="center">Polygon</td><td align="center"><a href="https://polygonscan.com/address/0x6270cA88107c2855b1e3dBaA211587df5263Bc3D">0x6270cA88107c2855b1e3dBaA211587df5263Bc3D</a></td></tr><tr><td align="center">Ethereum</td><td align="center"><a href="https://etherscan.io/address/0xb17A206eC2916b2D04FD997B603505fb1811F902">0xb17A206eC2916b2D04FD997B603505fb1811F902</a></td></tr><tr><td align="center">Arbitrum</td><td align="center"><a href="https://arbiscan.io/address/0xC24223341415Bc8CaB0ffA5C2A6200d835fB1FF5">0xC24223341415Bc8CaB0ffA5C2A6200d835fB1FF5</a></td></tr><tr><td align="center">Optimism</td><td align="center"><a href="https://optimistic.etherscan.io/address/0x78ED254b9c140c1A2BE10d2ad32C65b5f712f54b">0x78ED254b9c140c1A2BE10d2ad32C65b5f712f54b</a></td></tr><tr><td align="center">Base</td><td align="center"><a href="https://basescan.org/address/0x5642B40c7081606b0EcF3d03B561500089603e2B">0x5642B40c7081606b0EcF3d03B561500089603e2B</a></td></tr></tbody></table>

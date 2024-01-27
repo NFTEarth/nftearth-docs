@@ -16,7 +16,6 @@
 ## NFTE TOKEN
 
 * [🌏 NFTE Token and Tokenomics](nfte-token/nfte-token-and-tokenomics.md)
-* [🚦 veNFTE](nfte-token/venfte.md)
 * [📈 Where to Swap NFTE](nfte-token/where-to-swap-nfte.md)
 
 ## RESOURCES

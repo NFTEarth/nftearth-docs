@@ -1,14 +1,8 @@
----
-description: >-
-  NFTE Token and Tokenomics NFTE is the native protocol token of the NFTEarth
-  ecosystem.
----
-
 # 🌏 NFTE Token and Tokenomics
 
 ## NFTE Tokenomics <a href="#nfte-tokenomics" id="nfte-tokenomics"></a>
 
-NFTE is the native utility token of the NFTEarth ecosystem. It is designed primarily to be used for staking, voting, and overall governance of the protocol. NFTE is an ERC-20 token that leverages the LayerZero Omnichain Fungible Token (OFT) extension, which enables easy, fast, and secure bridging of NFTE cross-chain.
+NFTE is the native protocol token of the NFTEarth ecosystem. It is designed primarily to be used for staking, voting, and overall governance of the protocol. NFTE is an ERC-20 token that leverages the LayerZero Omnichain Fungible Token (OFT) extension. By using the OFT technology, the NFTE token is able to be sent cross-chain faster and for lower cost, while also being a more secure method of moving tokens across chains than traditional liquidity-based bridges.
 
 ***
 
@@ -22,7 +16,7 @@ CoinMarketCap: [https://coinmarketcap.com/currencies/nftearth/](https://coinmark
 
 | Total and Maximum Supply of NFTE   | 1,000,000,000 |
 | ---------------------------------- | ------------- |
-| Current Circulating Supply of NFTE | 500,000,000   |
+| Current Circulating Supply of NFTE | 600,000,000   |
 
 ## Token Allocation
 
@@ -43,4 +37,4 @@ CoinMarketCap: [https://coinmarketcap.com/currencies/nftearth/](https://coinmark
 
 ## **What is the total supply / circulating supply / global supply?**&#x20;
 
-* 1,000,000,000 (100 Billion) NFTE tokens. The max supply and total supply of tokens have all been minted, spread across the networks the protocol has deployed the token to.
+* 1,000,000,000 (1 Billion) NFTE tokens. The max supply and total supply of tokens have all been minted, spread across the networks the protocol has deployed the token to.
