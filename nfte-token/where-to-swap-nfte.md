@@ -16,6 +16,10 @@ description: >-
 
 LlamaSwap - a Meta DEX aggregator is typically an excellent place to swap tokens. The link to buy NFTE on Polygon PoS on LlamaSwap is [here](https://swap.defillama.com/?chain=polygon\&from=0x0000000000000000000000000000000000000000\&to=0x492fa53b88614923937b7197c87e0f7f8eeb7b20).
 
+## NFTFi Vaults
+
+With an emphasis on NFTFi - NFTEarth has built out a system of automated Vaults, through the [Steer Finance](https://app.steer.finance/) platform. Users can deposit their concentrated liquidity position(s) from any of the DEXs where a Vault has been created, and let the automated strategy perform completely on its own.&#x20;
+
 ***
 
 ## NFTE Token Basics
