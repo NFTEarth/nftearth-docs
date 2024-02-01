@@ -10,15 +10,21 @@ description: >-
 
 **DEXs**
 
-1. SushiSwap&#x20;
-2. Uniswap
-3. QuickSwap
+1. [SushiSwap ](https://www.sushi.com/swap?chainId=137\&token0=NATIVE\&token1=0x492Fa53b88614923937B7197C87E0F7F8EEb7B20\&swapAmount=)
+2. [Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0x492Fa53b88614923937B7197C87E0F7F8EEb7B20\&chain=polygon)
+3. [QuickSwap](https://quickswap.exchange/#/swap?currency0=ETH\&currency1=0x492Fa53b88614923937B7197C87E0F7F8EEb7B20\&swapIndex=0)
 
 LlamaSwap - a Meta DEX aggregator is typically an excellent place to swap tokens. The link to buy NFTE on Polygon PoS on LlamaSwap is [here](https://swap.defillama.com/?chain=polygon\&from=0x0000000000000000000000000000000000000000\&to=0x492fa53b88614923937b7197c87e0f7f8eeb7b20).
 
 ## NFTFi Vaults
 
-With an emphasis on NFTFi - NFTEarth has built out a system of automated Vaults, through the [Steer Finance](https://app.steer.finance/) platform. Users can deposit their concentrated liquidity position(s) from any of the DEXs where a Vault has been created, and let the automated strategy perform completely on its own.&#x20;
+With an emphasis on NFTFi - NFTEarth has built out a system of automated Vaults, through the [Steer Finance](https://app.steer.finance/) platform. Steer is an Automated Liquidity Manager - enabled users to provide liquidity to preconfigured strategies and let them work passively without manual upkeep of their LP positions.  Users can deposit their concentrated liquidity position(s) from any of the DEXs where a Vault has been created, and let the automated strategy perform completely on its own.&#x20;
+
+{% hint style="info" %}
+Note: as with all liquidity positions and tokens in the digital asset space, it's important to thoroughly research and understand what you are doing before taking action. Take your time and make sure you understand what you are doing before implementing what is best for you. \
+\
+It's also important to remember that positions change and it is your responsibility to keep an eye on whatever liquidity position you provide if you choose to do so - and this includes both automated and manual LP positions. Be attentive and keep up to date and don't be shy! If you have any questions, you can join the community in Discord, Telegram or X.
+{% endhint %}
 
 ***
 
